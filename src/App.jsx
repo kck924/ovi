@@ -95,11 +95,15 @@ function App() {
           <img src="/thegoal.png" alt="" className="header-decoration left" />
           <div className="total-goals">{regularSeasonGoals.length}</div>
           <div className="total-label">CAREER GOALS</div>
-          <div className="total-sublabel">and counting...</div>
+          <div className="total-sublabel">and counting<span className="loading-dots"></span></div>
           <img src="/ovislide.png" alt="" className="header-decoration right" />
         </div>
 
         <div className="header-right">
+          <a href="https://www.japersrink.com" target="_blank" rel="noopener noreferrer">
+            <img src="/jr.webp" alt="Japers' Rink" className="header-jr" />
+          </a>
+          <div className="header-jr-text">A Japers' Rink joint...</div>
         </div>
       </header>
 
@@ -108,6 +112,10 @@ function App() {
       <footer className="app-footer">
         <span>Data visualization by Kevin Klein</span>
         <span className="data-attribution">Data: NHL.com & Moneypuck</span>
+        <a href="https://www.japersrink.com" target="_blank" rel="noopener noreferrer" className="footer-jr">
+          <img src="/jr.webp" alt="Japers' Rink" />
+          <span>A Japers' Rink joint...</span>
+        </a>
       </footer>
     </div>
   )

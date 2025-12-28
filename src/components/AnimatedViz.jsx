@@ -19,6 +19,7 @@ import UniquesChart from './UniquesChart'
 import PlayerHeadshot from './PlayerHeadshot'
 
 const MILESTONES = [33, 500, 700, 767, 800, 802, 894, 895, 900]
+const VIDEO_BASE = 'https://dbkseqndwgeyacafisjv.supabase.co/storage/v1/object/public/ovivideos'
 
 export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
   const [currentIndex, setCurrentIndex] = useState(0)
@@ -469,7 +470,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/thegoal.mp4"
+                  src={`${VIDEO_BASE}/thegoal.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -514,7 +515,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/500th.mp4"
+                  src={`${VIDEO_BASE}/500th.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -559,7 +560,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/700th.mp4"
+                  src={`${VIDEO_BASE}/700th.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -604,7 +605,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/passjagr.mp4"
+                  src={`${VIDEO_BASE}/passjagr.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -649,7 +650,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/800th.mp4"
+                  src={`${VIDEO_BASE}/800th.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -694,7 +695,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/passhowe.mp4"
+                  src={`${VIDEO_BASE}/passhowe.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -739,7 +740,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/895.mp4"
+                  src={`${VIDEO_BASE}/895.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -784,7 +785,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
             >
               <div className="video-wispy">
                 <video
-                  src="/900th.mp4"
+                  src={`${VIDEO_BASE}/900th.mp4`}
                   autoPlay
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
@@ -904,16 +905,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
         }
 
         .floating-headshot {
-          position: fixed;
-          top: 40px;
-          transform: translateY(-50%);
-          right: 4rem;
-          z-index: 50;
-          background: rgba(17, 17, 17, 0.8);
-          border-radius: 8px;
-          padding: 8px;
-          border: 1px solid #333;
-          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+          display: none;
         }
 
         .mobile-goal-counter {

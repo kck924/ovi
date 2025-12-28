@@ -7,3 +7,5 @@ data/*.csv
 
 # Large video files (too big for GitHub)
 public/*.mp4
+.vercel
+.env*.local
