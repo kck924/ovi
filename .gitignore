@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.log
+.env
+data/*.csv
+
+# Large video files (too big for GitHub)
+public/*.mp4

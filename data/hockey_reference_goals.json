@@ -1,0 +1,8234 @@
+{
+  "metadata": {
+    "player": "Alex Ovechkin",
+    "playerId": 8471214,
+    "scrapedAt": "2025-12-28T04:25:16.809Z",
+    "source": "Hockey Reference",
+    "regularSeasonGoals": 897,
+    "playoffGoals": 0,
+    "note": "Assist data requires individual boxscore scraping - use MoneyPuck for complete data"
+  },
+  "stats": {
+    "bySeason": {
+      "20052006": 52,
+      "20062007": 46,
+      "20072008": 65,
+      "20082009": 56,
+      "20092010": 50,
+      "20102011": 32,
+      "20112012": 38,
+      "20122013": 32,
+      "20132014": 51,
+      "20142015": 53,
+      "20152016": 50,
+      "20162017": 33,
+      "20172018": 49,
+      "20182019": 51,
+      "20192020": 48,
+      "20202021": 24,
+      "20212022": 50,
+      "20222023": 42,
+      "20232024": 31,
+      "20242025": 44
+    },
+    "byOpponent": {
+      "CBJ": 27,
+      "NYR": 46,
+      "CAR": 52,
+      "FLA": 45,
+      "TBL": 51,
+      "TOR": 45,
+      "NJD": 42,
+      "BUF": 42,
+      "NSH": 19,
+      "DET": 25,
+      "ATL": 30,
+      "MTL": 39,
+      "BOS": 30,
+      "PHI": 52,
+      "CHI": 17,
+      "DAL": 12,
+      "MDA": 3,
+      "PHX": 3,
+      "STL": 21,
+      "PIT": 43,
+      "OTT": 38,
+      "NYI": 45,
+      "COL": 12,
+      "VAN": 16,
+      "EDM": 17,
+      "CGY": 18,
+      "ANA": 9,
+      "MIN": 20,
+      "LAK": 12,
+      "SJS": 17,
+      "WPG": 27,
+      "ARI": 7,
+      "VEG": 8,
+      "SEA": 5,
+      "UTA": 2
+    },
+    "byGoalType": {
+      "EV": 566,
+      "PP": 326,
+      "SH": 5
+    },
+    "topOpponents": [
+      [
+        "CAR",
+        52
+      ],
+      [
+        "PHI",
+        52
+      ],
+      [
+        "TBL",
+        51
+      ],
+      [
+        "NYR",
+        46
+      ],
+      [
+        "FLA",
+        45
+      ],
+      [
+        "TOR",
+        45
+      ],
+      [
+        "NYI",
+        45
+      ],
+      [
+        "PIT",
+        43
+      ],
+      [
+        "NJD",
+        42
+      ],
+      [
+        "BUF",
+        42
+      ],
+      [
+        "MTL",
+        39
+      ],
+      [
+        "OTT",
+        38
+      ],
+      [
+        "ATL",
+        30
+      ],
+      [
+        "BOS",
+        30
+      ],
+      [
+        "CBJ",
+        27
+      ],
+      [
+        "WPG",
+        27
+      ],
+      [
+        "DET",
+        25
+      ],
+      [
+        "STL",
+        21
+      ],
+      [
+        "MIN",
+        20
+      ],
+      [
+        "NSH",
+        19
+      ]
+    ]
+  },
+  "goals": [
+    {
+      "date": "2005-10-05",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 1
+    },
+    {
+      "date": "2005-10-05",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 2
+    },
+    {
+      "date": "2005-10-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 3
+    },
+    {
+      "date": "2005-10-12",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 4
+    },
+    {
+      "date": "2005-10-20",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 5
+    },
+    {
+      "date": "2005-10-20",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 6
+    },
+    {
+      "date": "2005-10-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 7
+    },
+    {
+      "date": "2005-10-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "SH",
+      "isPlayoffs": false,
+      "careerGoalNum": 8
+    },
+    {
+      "date": "2005-11-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 9
+    },
+    {
+      "date": "2005-11-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 10
+    },
+    {
+      "date": "2005-11-08",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 11
+    },
+    {
+      "date": "2005-11-08",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 12
+    },
+    {
+      "date": "2005-11-11",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 13
+    },
+    {
+      "date": "2005-11-15",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 14
+    },
+    {
+      "date": "2005-11-17",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 15
+    },
+    {
+      "date": "2005-12-03",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 16
+    },
+    {
+      "date": "2005-12-07",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 17
+    },
+    {
+      "date": "2005-12-09",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 18
+    },
+    {
+      "date": "2005-12-22",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 19
+    },
+    {
+      "date": "2005-12-23",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 20
+    },
+    {
+      "date": "2005-12-27",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 21
+    },
+    {
+      "date": "2005-12-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 22
+    },
+    {
+      "date": "2005-12-31",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 23
+    },
+    {
+      "date": "2006-01-01",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 24
+    },
+    {
+      "date": "2006-01-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 25
+    },
+    {
+      "date": "2006-01-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 26
+    },
+    {
+      "date": "2006-01-12",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 27
+    },
+    {
+      "date": "2006-01-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MDA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 28
+    },
+    {
+      "date": "2006-01-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MDA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 29
+    },
+    {
+      "date": "2006-01-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MDA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 30
+    },
+    {
+      "date": "2006-01-16",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHX",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 31
+    },
+    {
+      "date": "2006-01-16",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHX",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 32
+    },
+    {
+      "date": "2006-01-19",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 33
+    },
+    {
+      "date": "2006-01-25",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 34
+    },
+    {
+      "date": "2006-02-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 35
+    },
+    {
+      "date": "2006-02-11",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PIT",
+      "goalType": "SH",
+      "isPlayoffs": false,
+      "careerGoalNum": 36
+    },
+    {
+      "date": "2006-02-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 37
+    },
+    {
+      "date": "2006-03-02",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "OTT",
+      "goalType": "SH",
+      "isPlayoffs": false,
+      "careerGoalNum": 38
+    },
+    {
+      "date": "2006-03-04",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 39
+    },
+    {
+      "date": "2006-03-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 40
+    },
+    {
+      "date": "2006-03-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 41
+    },
+    {
+      "date": "2006-03-08",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 42
+    },
+    {
+      "date": "2006-03-14",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 43
+    },
+    {
+      "date": "2006-03-20",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 44
+    },
+    {
+      "date": "2006-03-23",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 45
+    },
+    {
+      "date": "2006-03-23",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 46
+    },
+    {
+      "date": "2006-03-25",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 47
+    },
+    {
+      "date": "2006-03-29",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 48
+    },
+    {
+      "date": "2006-04-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 49
+    },
+    {
+      "date": "2006-04-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 50
+    },
+    {
+      "date": "2006-04-15",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 51
+    },
+    {
+      "date": "2006-04-17",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 52
+    },
+    {
+      "date": "2006-10-07",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 53
+    },
+    {
+      "date": "2006-10-07",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 54
+    },
+    {
+      "date": "2006-10-19",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 55
+    },
+    {
+      "date": "2006-10-21",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 56
+    },
+    {
+      "date": "2006-10-25",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 57
+    },
+    {
+      "date": "2006-10-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 58
+    },
+    {
+      "date": "2006-11-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 59
+    },
+    {
+      "date": "2006-11-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 60
+    },
+    {
+      "date": "2006-11-06",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 61
+    },
+    {
+      "date": "2006-11-06",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 62
+    },
+    {
+      "date": "2006-11-11",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 63
+    },
+    {
+      "date": "2006-11-13",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 64
+    },
+    {
+      "date": "2006-11-18",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 65
+    },
+    {
+      "date": "2006-11-24",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 66
+    },
+    {
+      "date": "2006-11-25",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 67
+    },
+    {
+      "date": "2006-11-28",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 68
+    },
+    {
+      "date": "2006-12-02",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 69
+    },
+    {
+      "date": "2006-12-09",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 70
+    },
+    {
+      "date": "2006-12-15",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 71
+    },
+    {
+      "date": "2006-12-15",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 72
+    },
+    {
+      "date": "2006-12-15",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 73
+    },
+    {
+      "date": "2006-12-16",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 74
+    },
+    {
+      "date": "2006-12-19",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 75
+    },
+    {
+      "date": "2006-12-23",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 76
+    },
+    {
+      "date": "2006-12-26",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 77
+    },
+    {
+      "date": "2007-01-06",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 78
+    },
+    {
+      "date": "2007-01-09",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 79
+    },
+    {
+      "date": "2007-01-09",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 80
+    },
+    {
+      "date": "2007-01-18",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 81
+    },
+    {
+      "date": "2007-01-26",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 82
+    },
+    {
+      "date": "2007-01-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 83
+    },
+    {
+      "date": "2007-01-30",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 84
+    },
+    {
+      "date": "2007-02-01",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 85
+    },
+    {
+      "date": "2007-02-10",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 86
+    },
+    {
+      "date": "2007-02-25",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 87
+    },
+    {
+      "date": "2007-02-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 88
+    },
+    {
+      "date": "2007-02-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 89
+    },
+    {
+      "date": "2007-03-01",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 90
+    },
+    {
+      "date": "2007-03-10",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 91
+    },
+    {
+      "date": "2007-03-12",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 92
+    },
+    {
+      "date": "2007-03-12",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 93
+    },
+    {
+      "date": "2007-03-22",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 94
+    },
+    {
+      "date": "2007-03-22",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 95
+    },
+    {
+      "date": "2007-04-03",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 96
+    },
+    {
+      "date": "2007-04-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 97
+    },
+    {
+      "date": "2007-04-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 98
+    },
+    {
+      "date": "2007-10-06",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 99
+    },
+    {
+      "date": "2007-10-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 100
+    },
+    {
+      "date": "2007-10-13",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 101
+    },
+    {
+      "date": "2007-10-18",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 102
+    },
+    {
+      "date": "2007-10-24",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 103
+    },
+    {
+      "date": "2007-10-26",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 104
+    },
+    {
+      "date": "2007-10-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 105
+    },
+    {
+      "date": "2007-10-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 106
+    },
+    {
+      "date": "2007-11-02",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 107
+    },
+    {
+      "date": "2007-11-08",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 108
+    },
+    {
+      "date": "2007-11-10",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 109
+    },
+    {
+      "date": "2007-11-15",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 110
+    },
+    {
+      "date": "2007-11-16",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 111
+    },
+    {
+      "date": "2007-11-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 112
+    },
+    {
+      "date": "2007-11-24",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 113
+    },
+    {
+      "date": "2007-11-24",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 114
+    },
+    {
+      "date": "2007-11-26",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 115
+    },
+    {
+      "date": "2007-11-30",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 116
+    },
+    {
+      "date": "2007-11-30",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 117
+    },
+    {
+      "date": "2007-12-01",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 118
+    },
+    {
+      "date": "2007-12-08",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 119
+    },
+    {
+      "date": "2007-12-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 120
+    },
+    {
+      "date": "2007-12-14",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 121
+    },
+    {
+      "date": "2007-12-17",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 122
+    },
+    {
+      "date": "2007-12-22",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 123
+    },
+    {
+      "date": "2007-12-27",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 124
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 125
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 126
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 127
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 128
+    },
+    {
+      "date": "2008-01-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 129
+    },
+    {
+      "date": "2008-01-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 130
+    },
+    {
+      "date": "2008-01-13",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 131
+    },
+    {
+      "date": "2008-01-15",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 132
+    },
+    {
+      "date": "2008-01-17",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 133
+    },
+    {
+      "date": "2008-01-19",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 134
+    },
+    {
+      "date": "2008-01-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 135
+    },
+    {
+      "date": "2008-01-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 136
+    },
+    {
+      "date": "2008-01-23",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 137
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 138
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 139
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 140
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 141
+    },
+    {
+      "date": "2008-02-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 142
+    },
+    {
+      "date": "2008-02-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 143
+    },
+    {
+      "date": "2008-02-06",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 144
+    },
+    {
+      "date": "2008-02-10",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 145
+    },
+    {
+      "date": "2008-02-13",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 146
+    },
+    {
+      "date": "2008-03-01",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 147
+    },
+    {
+      "date": "2008-03-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 148
+    },
+    {
+      "date": "2008-03-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 149
+    },
+    {
+      "date": "2008-03-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 150
+    },
+    {
+      "date": "2008-03-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 151
+    },
+    {
+      "date": "2008-03-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 152
+    },
+    {
+      "date": "2008-03-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 153
+    },
+    {
+      "date": "2008-03-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 154
+    },
+    {
+      "date": "2008-03-14",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 155
+    },
+    {
+      "date": "2008-03-18",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 156
+    },
+    {
+      "date": "2008-03-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 157
+    },
+    {
+      "date": "2008-03-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 158
+    },
+    {
+      "date": "2008-03-25",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 159
+    },
+    {
+      "date": "2008-03-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 160
+    },
+    {
+      "date": "2008-04-01",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 161
+    },
+    {
+      "date": "2008-04-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 162
+    },
+    {
+      "date": "2008-04-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 163
+    },
+    {
+      "date": "2008-10-11",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 164
+    },
+    {
+      "date": "2008-10-11",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 165
+    },
+    {
+      "date": "2008-11-10",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 166
+    },
+    {
+      "date": "2008-11-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 167
+    },
+    {
+      "date": "2008-11-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 168
+    },
+    {
+      "date": "2008-11-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 169
+    },
+    {
+      "date": "2008-11-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 170
+    },
+    {
+      "date": "2008-11-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 171
+    },
+    {
+      "date": "2008-11-24",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 172
+    },
+    {
+      "date": "2008-11-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 173
+    },
+    {
+      "date": "2008-11-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 174
+    },
+    {
+      "date": "2008-11-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 175
+    },
+    {
+      "date": "2008-11-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 176
+    },
+    {
+      "date": "2008-12-04",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 177
+    },
+    {
+      "date": "2008-12-10",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 178
+    },
+    {
+      "date": "2008-12-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 179
+    },
+    {
+      "date": "2008-12-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 180
+    },
+    {
+      "date": "2008-12-16",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 181
+    },
+    {
+      "date": "2008-12-16",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 182
+    },
+    {
+      "date": "2008-12-18",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 183
+    },
+    {
+      "date": "2008-12-23",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 184
+    },
+    {
+      "date": "2008-12-23",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 185
+    },
+    {
+      "date": "2008-12-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 186
+    },
+    {
+      "date": "2008-12-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 187
+    },
+    {
+      "date": "2008-12-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 188
+    },
+    {
+      "date": "2009-01-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 189
+    },
+    {
+      "date": "2009-01-03",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYR",
+      "goalType": "SH",
+      "isPlayoffs": false,
+      "careerGoalNum": 190
+    },
+    {
+      "date": "2009-01-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 191
+    },
+    {
+      "date": "2009-01-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 192
+    },
+    {
+      "date": "2009-01-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 193
+    },
+    {
+      "date": "2009-01-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 194
+    },
+    {
+      "date": "2009-01-31",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 195
+    },
+    {
+      "date": "2009-01-31",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 196
+    },
+    {
+      "date": "2009-02-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 197
+    },
+    {
+      "date": "2009-02-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 198
+    },
+    {
+      "date": "2009-02-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 199
+    },
+    {
+      "date": "2009-02-05",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 200
+    },
+    {
+      "date": "2009-02-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 201
+    },
+    {
+      "date": "2009-02-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 202
+    },
+    {
+      "date": "2009-02-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 203
+    },
+    {
+      "date": "2009-02-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 204
+    },
+    {
+      "date": "2009-02-18",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 205
+    },
+    {
+      "date": "2009-02-22",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 206
+    },
+    {
+      "date": "2009-02-24",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 207
+    },
+    {
+      "date": "2009-02-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 208
+    },
+    {
+      "date": "2009-03-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 209
+    },
+    {
+      "date": "2009-03-08",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 210
+    },
+    {
+      "date": "2009-03-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 211
+    },
+    {
+      "date": "2009-03-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 212
+    },
+    {
+      "date": "2009-03-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 213
+    },
+    {
+      "date": "2009-03-24",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 214
+    },
+    {
+      "date": "2009-03-27",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 215
+    },
+    {
+      "date": "2009-03-27",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 216
+    },
+    {
+      "date": "2009-04-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 217
+    },
+    {
+      "date": "2009-04-03",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 218
+    },
+    {
+      "date": "2009-04-11",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 219
+    },
+    {
+      "date": "2009-10-01",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 220
+    },
+    {
+      "date": "2009-10-01",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 221
+    },
+    {
+      "date": "2009-10-03",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 222
+    },
+    {
+      "date": "2009-10-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 223
+    },
+    {
+      "date": "2009-10-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 224
+    },
+    {
+      "date": "2009-10-15",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 225
+    },
+    {
+      "date": "2009-10-15",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 226
+    },
+    {
+      "date": "2009-10-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 227
+    },
+    {
+      "date": "2009-10-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 228
+    },
+    {
+      "date": "2009-10-27",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 229
+    },
+    {
+      "date": "2009-10-27",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 230
+    },
+    {
+      "date": "2009-10-29",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 231
+    },
+    {
+      "date": "2009-10-29",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 232
+    },
+    {
+      "date": "2009-10-30",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 233
+    },
+    {
+      "date": "2009-11-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 234
+    },
+    {
+      "date": "2009-11-21",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 235
+    },
+    {
+      "date": "2009-11-25",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 236
+    },
+    {
+      "date": "2009-11-28",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 237
+    },
+    {
+      "date": "2009-12-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 238
+    },
+    {
+      "date": "2009-12-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 239
+    },
+    {
+      "date": "2009-12-12",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 240
+    },
+    {
+      "date": "2009-12-19",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 241
+    },
+    {
+      "date": "2009-12-19",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 242
+    },
+    {
+      "date": "2009-12-23",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 243
+    },
+    {
+      "date": "2009-12-26",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 244
+    },
+    {
+      "date": "2009-12-30",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 245
+    },
+    {
+      "date": "2010-01-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 246
+    },
+    {
+      "date": "2010-01-13",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 247
+    },
+    {
+      "date": "2010-01-15",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 248
+    },
+    {
+      "date": "2010-01-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 249
+    },
+    {
+      "date": "2010-01-21",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 250
+    },
+    {
+      "date": "2010-01-21",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 251
+    },
+    {
+      "date": "2010-01-23",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHX",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 252
+    },
+    {
+      "date": "2010-01-27",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 253
+    },
+    {
+      "date": "2010-01-31",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 254
+    },
+    {
+      "date": "2010-02-02",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 255
+    },
+    {
+      "date": "2010-02-04",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 256
+    },
+    {
+      "date": "2010-02-04",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 257
+    },
+    {
+      "date": "2010-02-05",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 258
+    },
+    {
+      "date": "2010-02-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 259
+    },
+    {
+      "date": "2010-02-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 260
+    },
+    {
+      "date": "2010-02-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 261
+    },
+    {
+      "date": "2010-03-08",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 262
+    },
+    {
+      "date": "2010-03-08",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 263
+    },
+    {
+      "date": "2010-03-20",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 264
+    },
+    {
+      "date": "2010-03-28",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 265
+    },
+    {
+      "date": "2010-04-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 266
+    },
+    {
+      "date": "2010-04-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 267
+    },
+    {
+      "date": "2010-04-09",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 268
+    },
+    {
+      "date": "2010-04-09",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 269
+    },
+    {
+      "date": "2010-10-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 270
+    },
+    {
+      "date": "2010-10-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 271
+    },
+    {
+      "date": "2010-10-11",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 272
+    },
+    {
+      "date": "2010-10-13",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 273
+    },
+    {
+      "date": "2010-10-28",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 274
+    },
+    {
+      "date": "2010-10-30",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 275
+    },
+    {
+      "date": "2010-10-30",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 276
+    },
+    {
+      "date": "2010-11-05",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 277
+    },
+    {
+      "date": "2010-11-11",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 278
+    },
+    {
+      "date": "2010-11-14",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 279
+    },
+    {
+      "date": "2010-12-04",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 280
+    },
+    {
+      "date": "2010-12-06",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 281
+    },
+    {
+      "date": "2010-12-26",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 282
+    },
+    {
+      "date": "2010-12-28",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 283
+    },
+    {
+      "date": "2011-01-08",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 284
+    },
+    {
+      "date": "2011-01-18",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 285
+    },
+    {
+      "date": "2011-01-22",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 286
+    },
+    {
+      "date": "2011-01-22",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 287
+    },
+    {
+      "date": "2011-01-22",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 288
+    },
+    {
+      "date": "2011-02-04",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 289
+    },
+    {
+      "date": "2011-02-12",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 290
+    },
+    {
+      "date": "2011-02-16",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 291
+    },
+    {
+      "date": "2011-02-17",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 292
+    },
+    {
+      "date": "2011-02-21",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 293
+    },
+    {
+      "date": "2011-03-01",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 294
+    },
+    {
+      "date": "2011-03-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 295
+    },
+    {
+      "date": "2011-03-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 296
+    },
+    {
+      "date": "2011-03-11",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 297
+    },
+    {
+      "date": "2011-03-16",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 298
+    },
+    {
+      "date": "2011-04-02",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 299
+    },
+    {
+      "date": "2011-04-05",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 300
+    },
+    {
+      "date": "2011-04-06",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 301
+    },
+    {
+      "date": "2011-10-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 302
+    },
+    {
+      "date": "2011-10-20",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 303
+    },
+    {
+      "date": "2011-10-20",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 304
+    },
+    {
+      "date": "2011-10-29",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 305
+    },
+    {
+      "date": "2011-10-29",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 306
+    },
+    {
+      "date": "2011-11-05",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 307
+    },
+    {
+      "date": "2011-11-11",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 308
+    },
+    {
+      "date": "2011-11-25",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 309
+    },
+    {
+      "date": "2011-12-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 310
+    },
+    {
+      "date": "2011-12-15",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 311
+    },
+    {
+      "date": "2011-12-20",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 312
+    },
+    {
+      "date": "2011-12-26",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 313
+    },
+    {
+      "date": "2011-12-30",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 314
+    },
+    {
+      "date": "2011-12-30",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 315
+    },
+    {
+      "date": "2011-12-31",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 316
+    },
+    {
+      "date": "2011-12-31",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 317
+    },
+    {
+      "date": "2012-01-03",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 318
+    },
+    {
+      "date": "2012-01-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 319
+    },
+    {
+      "date": "2012-01-18",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 320
+    },
+    {
+      "date": "2012-01-22",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 321
+    },
+    {
+      "date": "2012-02-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 322
+    },
+    {
+      "date": "2012-02-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 323
+    },
+    {
+      "date": "2012-02-09",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 324
+    },
+    {
+      "date": "2012-02-17",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 325
+    },
+    {
+      "date": "2012-02-24",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 326
+    },
+    {
+      "date": "2012-02-28",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 327
+    },
+    {
+      "date": "2012-03-08",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 328
+    },
+    {
+      "date": "2012-03-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 329
+    },
+    {
+      "date": "2012-03-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 330
+    },
+    {
+      "date": "2012-03-18",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 331
+    },
+    {
+      "date": "2012-03-19",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 332
+    },
+    {
+      "date": "2012-03-19",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 333
+    },
+    {
+      "date": "2012-03-22",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 334
+    },
+    {
+      "date": "2012-03-23",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 335
+    },
+    {
+      "date": "2012-03-23",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 336
+    },
+    {
+      "date": "2012-03-25",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 337
+    },
+    {
+      "date": "2012-04-05",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 338
+    },
+    {
+      "date": "2012-04-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 339
+    },
+    {
+      "date": "2013-01-27",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 340
+    },
+    {
+      "date": "2013-01-31",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 341
+    },
+    {
+      "date": "2013-02-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 342
+    },
+    {
+      "date": "2013-02-09",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 343
+    },
+    {
+      "date": "2013-02-12",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 344
+    },
+    {
+      "date": "2013-02-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 345
+    },
+    {
+      "date": "2013-02-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 346
+    },
+    {
+      "date": "2013-02-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 347
+    },
+    {
+      "date": "2013-03-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 348
+    },
+    {
+      "date": "2013-03-14",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 349
+    },
+    {
+      "date": "2013-03-17",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 350
+    },
+    {
+      "date": "2013-03-19",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 351
+    },
+    {
+      "date": "2013-03-21",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 352
+    },
+    {
+      "date": "2013-03-22",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 353
+    },
+    {
+      "date": "2013-03-22",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 354
+    },
+    {
+      "date": "2013-03-24",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 355
+    },
+    {
+      "date": "2013-03-30",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 356
+    },
+    {
+      "date": "2013-03-31",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 357
+    },
+    {
+      "date": "2013-04-02",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 358
+    },
+    {
+      "date": "2013-04-02",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 359
+    },
+    {
+      "date": "2013-04-06",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 360
+    },
+    {
+      "date": "2013-04-06",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 361
+    },
+    {
+      "date": "2013-04-06",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 362
+    },
+    {
+      "date": "2013-04-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 363
+    },
+    {
+      "date": "2013-04-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 364
+    },
+    {
+      "date": "2013-04-09",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 365
+    },
+    {
+      "date": "2013-04-13",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 366
+    },
+    {
+      "date": "2013-04-16",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 367
+    },
+    {
+      "date": "2013-04-20",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 368
+    },
+    {
+      "date": "2013-04-20",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 369
+    },
+    {
+      "date": "2013-04-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 370
+    },
+    {
+      "date": "2013-04-25",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 371
+    },
+    {
+      "date": "2013-10-01",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 372
+    },
+    {
+      "date": "2013-10-03",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 373
+    },
+    {
+      "date": "2013-10-03",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 374
+    },
+    {
+      "date": "2013-10-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 375
+    },
+    {
+      "date": "2013-10-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 376
+    },
+    {
+      "date": "2013-10-14",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 377
+    },
+    {
+      "date": "2013-10-19",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 378
+    },
+    {
+      "date": "2013-10-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 379
+    },
+    {
+      "date": "2013-10-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 380
+    },
+    {
+      "date": "2013-10-24",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 381
+    },
+    {
+      "date": "2013-11-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 382
+    },
+    {
+      "date": "2013-11-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 383
+    },
+    {
+      "date": "2013-11-07",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 384
+    },
+    {
+      "date": "2013-11-12",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 385
+    },
+    {
+      "date": "2013-11-15",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 386
+    },
+    {
+      "date": "2013-11-17",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 387
+    },
+    {
+      "date": "2013-11-17",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 388
+    },
+    {
+      "date": "2013-11-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 389
+    },
+    {
+      "date": "2013-11-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 390
+    },
+    {
+      "date": "2013-11-23",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 391
+    },
+    {
+      "date": "2013-11-30",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 392
+    },
+    {
+      "date": "2013-12-07",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 393
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 394
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 395
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 396
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 397
+    },
+    {
+      "date": "2013-12-15",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 398
+    },
+    {
+      "date": "2013-12-17",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 399
+    },
+    {
+      "date": "2013-12-20",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 400
+    },
+    {
+      "date": "2013-12-21",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 401
+    },
+    {
+      "date": "2014-01-02",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 402
+    },
+    {
+      "date": "2014-01-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 403
+    },
+    {
+      "date": "2014-01-14",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 404
+    },
+    {
+      "date": "2014-01-15",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 405
+    },
+    {
+      "date": "2014-01-19",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 406
+    },
+    {
+      "date": "2014-01-25",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 407
+    },
+    {
+      "date": "2014-01-28",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 408
+    },
+    {
+      "date": "2014-01-28",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 409
+    },
+    {
+      "date": "2014-02-02",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 410
+    },
+    {
+      "date": "2014-02-06",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 411
+    },
+    {
+      "date": "2014-02-27",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 412
+    },
+    {
+      "date": "2014-03-01",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 413
+    },
+    {
+      "date": "2014-03-01",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 414
+    },
+    {
+      "date": "2014-03-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 415
+    },
+    {
+      "date": "2014-03-14",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 416
+    },
+    {
+      "date": "2014-03-18",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 417
+    },
+    {
+      "date": "2014-03-25",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 418
+    },
+    {
+      "date": "2014-03-25",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 419
+    },
+    {
+      "date": "2014-04-04",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 420
+    },
+    {
+      "date": "2014-04-08",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 421
+    },
+    {
+      "date": "2014-04-11",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 422
+    },
+    {
+      "date": "2014-10-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 423
+    },
+    {
+      "date": "2014-10-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 424
+    },
+    {
+      "date": "2014-10-14",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 425
+    },
+    {
+      "date": "2014-10-14",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 426
+    },
+    {
+      "date": "2014-10-16",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 427
+    },
+    {
+      "date": "2014-11-02",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 428
+    },
+    {
+      "date": "2014-11-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 429
+    },
+    {
+      "date": "2014-11-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 430
+    },
+    {
+      "date": "2014-11-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 431
+    },
+    {
+      "date": "2014-11-26",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 432
+    },
+    {
+      "date": "2014-11-26",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 433
+    },
+    {
+      "date": "2014-11-28",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 434
+    },
+    {
+      "date": "2014-12-09",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 435
+    },
+    {
+      "date": "2014-12-09",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 436
+    },
+    {
+      "date": "2014-12-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 437
+    },
+    {
+      "date": "2014-12-23",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 438
+    },
+    {
+      "date": "2014-12-29",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 439
+    },
+    {
+      "date": "2015-01-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 440
+    },
+    {
+      "date": "2015-01-04",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 441
+    },
+    {
+      "date": "2015-01-07",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 442
+    },
+    {
+      "date": "2015-01-08",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 443
+    },
+    {
+      "date": "2015-01-12",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 444
+    },
+    {
+      "date": "2015-01-16",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 445
+    },
+    {
+      "date": "2015-01-16",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 446
+    },
+    {
+      "date": "2015-01-17",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 447
+    },
+    {
+      "date": "2015-01-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 448
+    },
+    {
+      "date": "2015-01-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 449
+    },
+    {
+      "date": "2015-01-28",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 450
+    },
+    {
+      "date": "2015-01-28",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 451
+    },
+    {
+      "date": "2015-02-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 452
+    },
+    {
+      "date": "2015-02-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 453
+    },
+    {
+      "date": "2015-02-05",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 454
+    },
+    {
+      "date": "2015-02-08",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 455
+    },
+    {
+      "date": "2015-02-14",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 456
+    },
+    {
+      "date": "2015-02-15",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 457
+    },
+    {
+      "date": "2015-02-15",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 458
+    },
+    {
+      "date": "2015-02-17",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 459
+    },
+    {
+      "date": "2015-02-19",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 460
+    },
+    {
+      "date": "2015-02-25",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 461
+    },
+    {
+      "date": "2015-03-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 462
+    },
+    {
+      "date": "2015-03-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 463
+    },
+    {
+      "date": "2015-03-03",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 464
+    },
+    {
+      "date": "2015-03-03",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 465
+    },
+    {
+      "date": "2015-03-07",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 466
+    },
+    {
+      "date": "2015-03-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 467
+    },
+    {
+      "date": "2015-03-19",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 468
+    },
+    {
+      "date": "2015-03-19",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 469
+    },
+    {
+      "date": "2015-03-29",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 470
+    },
+    {
+      "date": "2015-03-29",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 471
+    },
+    {
+      "date": "2015-03-31",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 472
+    },
+    {
+      "date": "2015-04-02",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 473
+    },
+    {
+      "date": "2015-04-02",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 474
+    },
+    {
+      "date": "2015-04-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 475
+    },
+    {
+      "date": "2015-10-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 476
+    },
+    {
+      "date": "2015-10-15",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 477
+    },
+    {
+      "date": "2015-10-17",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 478
+    },
+    {
+      "date": "2015-10-20",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 479
+    },
+    {
+      "date": "2015-10-22",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 480
+    },
+    {
+      "date": "2015-11-03",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 481
+    },
+    {
+      "date": "2015-11-05",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 482
+    },
+    {
+      "date": "2015-11-07",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 483
+    },
+    {
+      "date": "2015-11-19",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 484
+    },
+    {
+      "date": "2015-11-21",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 485
+    },
+    {
+      "date": "2015-11-25",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 486
+    },
+    {
+      "date": "2015-11-27",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 487
+    },
+    {
+      "date": "2015-12-08",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 488
+    },
+    {
+      "date": "2015-12-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 489
+    },
+    {
+      "date": "2015-12-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 490
+    },
+    {
+      "date": "2015-12-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 491
+    },
+    {
+      "date": "2015-12-20",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 492
+    },
+    {
+      "date": "2015-12-28",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 493
+    },
+    {
+      "date": "2015-12-30",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 494
+    },
+    {
+      "date": "2015-12-30",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 495
+    },
+    {
+      "date": "2015-12-31",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 496
+    },
+    {
+      "date": "2016-01-07",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 497
+    },
+    {
+      "date": "2016-01-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 498
+    },
+    {
+      "date": "2016-01-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 499
+    },
+    {
+      "date": "2016-01-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 500
+    },
+    {
+      "date": "2016-01-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 501
+    },
+    {
+      "date": "2016-01-17",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 502
+    },
+    {
+      "date": "2016-01-19",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 503
+    },
+    {
+      "date": "2016-02-04",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 504
+    },
+    {
+      "date": "2016-02-07",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 505
+    },
+    {
+      "date": "2016-02-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 506
+    },
+    {
+      "date": "2016-02-11",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 507
+    },
+    {
+      "date": "2016-02-11",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 508
+    },
+    {
+      "date": "2016-02-11",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 509
+    },
+    {
+      "date": "2016-02-13",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 510
+    },
+    {
+      "date": "2016-02-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 511
+    },
+    {
+      "date": "2016-02-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 512
+    },
+    {
+      "date": "2016-02-20",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 513
+    },
+    {
+      "date": "2016-02-22",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "ARI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 514
+    },
+    {
+      "date": "2016-02-26",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 515
+    },
+    {
+      "date": "2016-03-02",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 516
+    },
+    {
+      "date": "2016-03-15",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 517
+    },
+    {
+      "date": "2016-03-22",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 518
+    },
+    {
+      "date": "2016-03-30",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 519
+    },
+    {
+      "date": "2016-04-01",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 520
+    },
+    {
+      "date": "2016-04-05",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 521
+    },
+    {
+      "date": "2016-04-05",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 522
+    },
+    {
+      "date": "2016-04-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 523
+    },
+    {
+      "date": "2016-04-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 524
+    },
+    {
+      "date": "2016-04-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 525
+    },
+    {
+      "date": "2016-10-18",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 526
+    },
+    {
+      "date": "2016-10-20",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 527
+    },
+    {
+      "date": "2016-10-22",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 528
+    },
+    {
+      "date": "2016-10-26",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 529
+    },
+    {
+      "date": "2016-11-03",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 530
+    },
+    {
+      "date": "2016-11-03",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 531
+    },
+    {
+      "date": "2016-11-05",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 532
+    },
+    {
+      "date": "2016-11-16",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 533
+    },
+    {
+      "date": "2016-11-20",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 534
+    },
+    {
+      "date": "2016-11-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 535
+    },
+    {
+      "date": "2016-11-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 536
+    },
+    {
+      "date": "2016-11-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 537
+    },
+    {
+      "date": "2016-12-11",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 538
+    },
+    {
+      "date": "2016-12-16",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 539
+    },
+    {
+      "date": "2016-12-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 540
+    },
+    {
+      "date": "2016-12-27",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 541
+    },
+    {
+      "date": "2016-12-31",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 542
+    },
+    {
+      "date": "2017-01-03",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 543
+    },
+    {
+      "date": "2017-01-09",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 544
+    },
+    {
+      "date": "2017-01-11",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 545
+    },
+    {
+      "date": "2017-01-11",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 546
+    },
+    {
+      "date": "2017-01-21",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 547
+    },
+    {
+      "date": "2017-01-26",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 548
+    },
+    {
+      "date": "2017-01-31",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 549
+    },
+    {
+      "date": "2017-02-01",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 550
+    },
+    {
+      "date": "2017-02-07",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 551
+    },
+    {
+      "date": "2017-02-19",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 552
+    },
+    {
+      "date": "2017-03-14",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 553
+    },
+    {
+      "date": "2017-03-21",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 554
+    },
+    {
+      "date": "2017-03-25",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 555
+    },
+    {
+      "date": "2017-03-28",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 556
+    },
+    {
+      "date": "2017-03-28",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 557
+    },
+    {
+      "date": "2017-03-28",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 558
+    },
+    {
+      "date": "2017-10-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 559
+    },
+    {
+      "date": "2017-10-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 560
+    },
+    {
+      "date": "2017-10-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 561
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 562
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 563
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 564
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 565
+    },
+    {
+      "date": "2017-10-11",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 566
+    },
+    {
+      "date": "2017-10-13",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 567
+    },
+    {
+      "date": "2017-10-20",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 568
+    },
+    {
+      "date": "2017-11-04",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 569
+    },
+    {
+      "date": "2017-11-06",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 570
+    },
+    {
+      "date": "2017-11-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 571
+    },
+    {
+      "date": "2017-11-22",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 572
+    },
+    {
+      "date": "2017-11-24",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 573
+    },
+    {
+      "date": "2017-11-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 574
+    },
+    {
+      "date": "2017-11-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 575
+    },
+    {
+      "date": "2017-11-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 576
+    },
+    {
+      "date": "2017-12-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 577
+    },
+    {
+      "date": "2017-12-04",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 578
+    },
+    {
+      "date": "2017-12-06",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 579
+    },
+    {
+      "date": "2017-12-14",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 580
+    },
+    {
+      "date": "2017-12-16",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 581
+    },
+    {
+      "date": "2017-12-28",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 582
+    },
+    {
+      "date": "2018-01-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 583
+    },
+    {
+      "date": "2018-01-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 584
+    },
+    {
+      "date": "2018-01-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 585
+    },
+    {
+      "date": "2018-01-12",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 586
+    },
+    {
+      "date": "2018-01-21",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 587
+    },
+    {
+      "date": "2018-01-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 588
+    },
+    {
+      "date": "2018-02-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 589
+    },
+    {
+      "date": "2018-02-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 590
+    },
+    {
+      "date": "2018-02-11",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 591
+    },
+    {
+      "date": "2018-02-15",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 592
+    },
+    {
+      "date": "2018-02-19",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 593
+    },
+    {
+      "date": "2018-02-20",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 594
+    },
+    {
+      "date": "2018-02-24",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 595
+    },
+    {
+      "date": "2018-02-24",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 596
+    },
+    {
+      "date": "2018-02-26",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 597
+    },
+    {
+      "date": "2018-03-03",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 598
+    },
+    {
+      "date": "2018-03-12",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 599
+    },
+    {
+      "date": "2018-03-12",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 600
+    },
+    {
+      "date": "2018-03-18",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 601
+    },
+    {
+      "date": "2018-03-20",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 602
+    },
+    {
+      "date": "2018-03-26",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 603
+    },
+    {
+      "date": "2018-04-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 604
+    },
+    {
+      "date": "2018-04-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 605
+    },
+    {
+      "date": "2018-04-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 606
+    },
+    {
+      "date": "2018-04-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 607
+    },
+    {
+      "date": "2018-10-03",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 608
+    },
+    {
+      "date": "2018-10-04",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 609
+    },
+    {
+      "date": "2018-10-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 610
+    },
+    {
+      "date": "2018-10-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 611
+    },
+    {
+      "date": "2018-10-17",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 612
+    },
+    {
+      "date": "2018-10-17",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 613
+    },
+    {
+      "date": "2018-10-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 614
+    },
+    {
+      "date": "2018-10-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 615
+    },
+    {
+      "date": "2018-11-01",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 616
+    },
+    {
+      "date": "2018-11-01",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 617
+    },
+    {
+      "date": "2018-11-05",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 618
+    },
+    {
+      "date": "2018-11-07",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 619
+    },
+    {
+      "date": "2018-11-16",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 620
+    },
+    {
+      "date": "2018-11-19",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 621
+    },
+    {
+      "date": "2018-11-19",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 622
+    },
+    {
+      "date": "2018-11-23",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 623
+    },
+    {
+      "date": "2018-11-24",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 624
+    },
+    {
+      "date": "2018-11-26",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 625
+    },
+    {
+      "date": "2018-11-30",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 626
+    },
+    {
+      "date": "2018-12-04",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 627
+    },
+    {
+      "date": "2018-12-06",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "ARI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 628
+    },
+    {
+      "date": "2018-12-08",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 629
+    },
+    {
+      "date": "2018-12-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 630
+    },
+    {
+      "date": "2018-12-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 631
+    },
+    {
+      "date": "2018-12-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 632
+    },
+    {
+      "date": "2018-12-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 633
+    },
+    {
+      "date": "2018-12-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 634
+    },
+    {
+      "date": "2018-12-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 635
+    },
+    {
+      "date": "2018-12-15",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 636
+    },
+    {
+      "date": "2019-01-03",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 637
+    },
+    {
+      "date": "2019-01-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 638
+    },
+    {
+      "date": "2019-01-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 639
+    },
+    {
+      "date": "2019-01-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 640
+    },
+    {
+      "date": "2019-01-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 641
+    },
+    {
+      "date": "2019-01-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 642
+    },
+    {
+      "date": "2019-01-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 643
+    },
+    {
+      "date": "2019-01-23",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 644
+    },
+    {
+      "date": "2019-02-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 645
+    },
+    {
+      "date": "2019-02-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 646
+    },
+    {
+      "date": "2019-02-17",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 647
+    },
+    {
+      "date": "2019-02-18",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 648
+    },
+    {
+      "date": "2019-02-18",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 649
+    },
+    {
+      "date": "2019-02-21",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 650
+    },
+    {
+      "date": "2019-02-23",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 651
+    },
+    {
+      "date": "2019-03-01",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 652
+    },
+    {
+      "date": "2019-03-06",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 653
+    },
+    {
+      "date": "2019-03-16",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 654
+    },
+    {
+      "date": "2019-03-16",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 655
+    },
+    {
+      "date": "2019-03-26",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 656
+    },
+    {
+      "date": "2019-03-30",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 657
+    },
+    {
+      "date": "2019-03-30",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 658
+    },
+    {
+      "date": "2019-10-02",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 659
+    },
+    {
+      "date": "2019-10-10",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 660
+    },
+    {
+      "date": "2019-10-10",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 661
+    },
+    {
+      "date": "2019-10-12",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 662
+    },
+    {
+      "date": "2019-10-14",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 663
+    },
+    {
+      "date": "2019-10-20",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 664
+    },
+    {
+      "date": "2019-10-22",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 665
+    },
+    {
+      "date": "2019-10-24",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 666
+    },
+    {
+      "date": "2019-10-24",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 667
+    },
+    {
+      "date": "2019-10-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 668
+    },
+    {
+      "date": "2019-10-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 669
+    },
+    {
+      "date": "2019-11-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 670
+    },
+    {
+      "date": "2019-11-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 671
+    },
+    {
+      "date": "2019-11-15",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 672
+    },
+    {
+      "date": "2019-11-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 673
+    },
+    {
+      "date": "2019-11-27",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 674
+    },
+    {
+      "date": "2019-11-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 675
+    },
+    {
+      "date": "2019-11-30",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 676
+    },
+    {
+      "date": "2019-11-30",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 677
+    },
+    {
+      "date": "2019-11-30",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 678
+    },
+    {
+      "date": "2019-12-09",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 679
+    },
+    {
+      "date": "2019-12-20",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 680
+    },
+    {
+      "date": "2019-12-23",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 681
+    },
+    {
+      "date": "2019-12-28",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 682
+    },
+    {
+      "date": "2020-01-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 683
+    },
+    {
+      "date": "2020-01-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 684
+    },
+    {
+      "date": "2020-01-13",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 685
+    },
+    {
+      "date": "2020-01-13",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 686
+    },
+    {
+      "date": "2020-01-16",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 687
+    },
+    {
+      "date": "2020-01-16",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 688
+    },
+    {
+      "date": "2020-01-16",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 689
+    },
+    {
+      "date": "2020-01-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 690
+    },
+    {
+      "date": "2020-01-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 691
+    },
+    {
+      "date": "2020-01-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 692
+    },
+    {
+      "date": "2020-01-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 693
+    },
+    {
+      "date": "2020-01-31",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 694
+    },
+    {
+      "date": "2020-01-31",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 695
+    },
+    {
+      "date": "2020-02-04",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 696
+    },
+    {
+      "date": "2020-02-04",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 697
+    },
+    {
+      "date": "2020-02-04",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 698
+    },
+    {
+      "date": "2020-02-20",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 699
+    },
+    {
+      "date": "2020-02-22",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 700
+    },
+    {
+      "date": "2020-02-25",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 701
+    },
+    {
+      "date": "2020-03-01",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 702
+    },
+    {
+      "date": "2020-03-01",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 703
+    },
+    {
+      "date": "2020-03-05",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 704
+    },
+    {
+      "date": "2020-03-05",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 705
+    },
+    {
+      "date": "2020-03-09",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 706
+    },
+    {
+      "date": "2021-01-17",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 707
+    },
+    {
+      "date": "2021-01-30",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 708
+    },
+    {
+      "date": "2021-02-04",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 709
+    },
+    {
+      "date": "2021-02-07",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 710
+    },
+    {
+      "date": "2021-02-07",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 711
+    },
+    {
+      "date": "2021-02-21",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 712
+    },
+    {
+      "date": "2021-02-28",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 713
+    },
+    {
+      "date": "2021-03-07",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 714
+    },
+    {
+      "date": "2021-03-11",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 715
+    },
+    {
+      "date": "2021-03-13",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 716
+    },
+    {
+      "date": "2021-03-15",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 717
+    },
+    {
+      "date": "2021-03-16",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 718
+    },
+    {
+      "date": "2021-03-19",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 719
+    },
+    {
+      "date": "2021-03-19",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 720
+    },
+    {
+      "date": "2021-03-25",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 721
+    },
+    {
+      "date": "2021-03-26",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 722
+    },
+    {
+      "date": "2021-03-26",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 723
+    },
+    {
+      "date": "2021-03-28",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 724
+    },
+    {
+      "date": "2021-04-04",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 725
+    },
+    {
+      "date": "2021-04-08",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 726
+    },
+    {
+      "date": "2021-04-09",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 727
+    },
+    {
+      "date": "2021-04-13",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 728
+    },
+    {
+      "date": "2021-04-17",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 729
+    },
+    {
+      "date": "2021-04-17",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 730
+    },
+    {
+      "date": "2021-10-13",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 731
+    },
+    {
+      "date": "2021-10-13",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYR",
+      "goalType": "SH",
+      "isPlayoffs": false,
+      "careerGoalNum": 732
+    },
+    {
+      "date": "2021-10-16",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 733
+    },
+    {
+      "date": "2021-10-19",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 734
+    },
+    {
+      "date": "2021-10-23",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 735
+    },
+    {
+      "date": "2021-10-25",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 736
+    },
+    {
+      "date": "2021-10-25",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 737
+    },
+    {
+      "date": "2021-10-27",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 738
+    },
+    {
+      "date": "2021-10-29",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "ARI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 739
+    },
+    {
+      "date": "2021-11-04",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 740
+    },
+    {
+      "date": "2021-11-08",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 741
+    },
+    {
+      "date": "2021-11-12",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 742
+    },
+    {
+      "date": "2021-11-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 743
+    },
+    {
+      "date": "2021-11-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 744
+    },
+    {
+      "date": "2021-11-21",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 745
+    },
+    {
+      "date": "2021-11-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 746
+    },
+    {
+      "date": "2021-11-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 747
+    },
+    {
+      "date": "2021-11-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 748
+    },
+    {
+      "date": "2021-11-28",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 749
+    },
+    {
+      "date": "2021-12-04",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 750
+    },
+    {
+      "date": "2021-12-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 751
+    },
+    {
+      "date": "2021-12-17",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 752
+    },
+    {
+      "date": "2021-12-31",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 753
+    },
+    {
+      "date": "2021-12-31",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 754
+    },
+    {
+      "date": "2022-01-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 755
+    },
+    {
+      "date": "2022-01-16",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 756
+    },
+    {
+      "date": "2022-01-18",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 757
+    },
+    {
+      "date": "2022-01-22",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 758
+    },
+    {
+      "date": "2022-01-22",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 759
+    },
+    {
+      "date": "2022-02-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 760
+    },
+    {
+      "date": "2022-02-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 761
+    },
+    {
+      "date": "2022-02-24",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 762
+    },
+    {
+      "date": "2022-03-03",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 763
+    },
+    {
+      "date": "2022-03-05",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SEA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 764
+    },
+    {
+      "date": "2022-03-08",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 765
+    },
+    {
+      "date": "2022-03-08",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 766
+    },
+    {
+      "date": "2022-03-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 767
+    },
+    {
+      "date": "2022-03-17",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 768
+    },
+    {
+      "date": "2022-03-18",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 769
+    },
+    {
+      "date": "2022-03-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 770
+    },
+    {
+      "date": "2022-03-25",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 771
+    },
+    {
+      "date": "2022-03-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 772
+    },
+    {
+      "date": "2022-04-06",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 773
+    },
+    {
+      "date": "2022-04-09",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 774
+    },
+    {
+      "date": "2022-04-10",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 775
+    },
+    {
+      "date": "2022-04-12",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 776
+    },
+    {
+      "date": "2022-04-16",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 777
+    },
+    {
+      "date": "2022-04-18",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 778
+    },
+    {
+      "date": "2022-04-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 779
+    },
+    {
+      "date": "2022-04-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 780
+    },
+    {
+      "date": "2022-10-17",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 781
+    },
+    {
+      "date": "2022-10-17",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 782
+    },
+    {
+      "date": "2022-10-24",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 783
+    },
+    {
+      "date": "2022-10-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 784
+    },
+    {
+      "date": "2022-10-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 785
+    },
+    {
+      "date": "2022-11-03",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 786
+    },
+    {
+      "date": "2022-11-05",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 787
+    },
+    {
+      "date": "2022-11-07",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 788
+    },
+    {
+      "date": "2022-11-17",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 789
+    },
+    {
+      "date": "2022-11-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 790
+    },
+    {
+      "date": "2022-11-25",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 791
+    },
+    {
+      "date": "2022-11-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 792
+    },
+    {
+      "date": "2022-11-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 793
+    },
+    {
+      "date": "2022-12-07",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 794
+    },
+    {
+      "date": "2022-12-07",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 795
+    },
+    {
+      "date": "2022-12-09",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 796
+    },
+    {
+      "date": "2022-12-11",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 797
+    },
+    {
+      "date": "2022-12-13",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 798
+    },
+    {
+      "date": "2022-12-13",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 799
+    },
+    {
+      "date": "2022-12-13",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 800
+    },
+    {
+      "date": "2022-12-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 801
+    },
+    {
+      "date": "2022-12-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 802
+    },
+    {
+      "date": "2022-12-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 803
+    },
+    {
+      "date": "2022-12-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 804
+    },
+    {
+      "date": "2022-12-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 805
+    },
+    {
+      "date": "2022-12-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 806
+    },
+    {
+      "date": "2023-01-03",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 807
+    },
+    {
+      "date": "2023-01-03",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 808
+    },
+    {
+      "date": "2023-01-05",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 809
+    },
+    {
+      "date": "2023-01-14",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 810
+    },
+    {
+      "date": "2023-01-24",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 811
+    },
+    {
+      "date": "2023-01-26",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 812
+    },
+    {
+      "date": "2023-02-26",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 813
+    },
+    {
+      "date": "2023-03-04",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 814
+    },
+    {
+      "date": "2023-03-04",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 815
+    },
+    {
+      "date": "2023-03-06",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 816
+    },
+    {
+      "date": "2023-03-15",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 817
+    },
+    {
+      "date": "2023-03-19",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 818
+    },
+    {
+      "date": "2023-03-19",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 819
+    },
+    {
+      "date": "2023-03-21",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 820
+    },
+    {
+      "date": "2023-03-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 821
+    },
+    {
+      "date": "2023-03-25",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 822
+    },
+    {
+      "date": "2023-10-24",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 823
+    },
+    {
+      "date": "2023-10-25",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 824
+    },
+    {
+      "date": "2023-11-11",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 825
+    },
+    {
+      "date": "2023-11-11",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 826
+    },
+    {
+      "date": "2023-11-18",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 827
+    },
+    {
+      "date": "2023-12-21",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 828
+    },
+    {
+      "date": "2023-12-30",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 829
+    },
+    {
+      "date": "2024-01-02",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 830
+    },
+    {
+      "date": "2024-01-27",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 831
+    },
+    {
+      "date": "2024-02-06",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 832
+    },
+    {
+      "date": "2024-02-08",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 833
+    },
+    {
+      "date": "2024-02-10",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 834
+    },
+    {
+      "date": "2024-02-11",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 835
+    },
+    {
+      "date": "2024-02-13",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 836
+    },
+    {
+      "date": "2024-02-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 837
+    },
+    {
+      "date": "2024-02-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 838
+    },
+    {
+      "date": "2024-03-01",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 839
+    },
+    {
+      "date": "2024-03-07",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 840
+    },
+    {
+      "date": "2024-03-16",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 841
+    },
+    {
+      "date": "2024-03-18",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 842
+    },
+    {
+      "date": "2024-03-18",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 843
+    },
+    {
+      "date": "2024-03-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 844
+    },
+    {
+      "date": "2024-03-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 845
+    },
+    {
+      "date": "2024-03-22",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 846
+    },
+    {
+      "date": "2024-03-24",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 847
+    },
+    {
+      "date": "2024-03-24",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 848
+    },
+    {
+      "date": "2024-04-04",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 849
+    },
+    {
+      "date": "2024-04-05",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 850
+    },
+    {
+      "date": "2024-04-05",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 851
+    },
+    {
+      "date": "2024-04-09",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 852
+    },
+    {
+      "date": "2024-04-16",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 853
+    },
+    {
+      "date": "2024-10-19",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 854
+    },
+    {
+      "date": "2024-10-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 855
+    },
+    {
+      "date": "2024-10-29",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 856
+    },
+    {
+      "date": "2024-10-29",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 857
+    },
+    {
+      "date": "2024-10-31",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 858
+    },
+    {
+      "date": "2024-11-02",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 859
+    },
+    {
+      "date": "2024-11-03",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 860
+    },
+    {
+      "date": "2024-11-06",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 861
+    },
+    {
+      "date": "2024-11-09",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 862
+    },
+    {
+      "date": "2024-11-09",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 863
+    },
+    {
+      "date": "2024-11-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 864
+    },
+    {
+      "date": "2024-11-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 865
+    },
+    {
+      "date": "2024-11-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "VEG",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 866
+    },
+    {
+      "date": "2024-11-18",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "UTA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 867
+    },
+    {
+      "date": "2024-11-18",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "UTA",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 868
+    },
+    {
+      "date": "2024-12-28",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 869
+    },
+    {
+      "date": "2024-12-29",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 870
+    },
+    {
+      "date": "2025-01-02",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 871
+    },
+    {
+      "date": "2025-01-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 872
+    },
+    {
+      "date": "2025-01-11",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 873
+    },
+    {
+      "date": "2025-01-16",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 874
+    },
+    {
+      "date": "2025-01-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 875
+    },
+    {
+      "date": "2025-01-30",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 876
+    },
+    {
+      "date": "2025-02-01",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 877
+    },
+    {
+      "date": "2025-02-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 878
+    },
+    {
+      "date": "2025-02-06",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 879
+    },
+    {
+      "date": "2025-02-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 880
+    },
+    {
+      "date": "2025-02-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 881
+    },
+    {
+      "date": "2025-02-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 882
+    },
+    {
+      "date": "2025-02-25",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 883
+    },
+    {
+      "date": "2025-03-01",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 884
+    },
+    {
+      "date": "2025-03-05",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 885
+    },
+    {
+      "date": "2025-03-09",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 886
+    },
+    {
+      "date": "2025-03-15",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 887
+    },
+    {
+      "date": "2025-03-20",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 888
+    },
+    {
+      "date": "2025-03-25",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 889
+    },
+    {
+      "date": "2025-03-30",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 890
+    },
+    {
+      "date": "2025-04-01",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 891
+    },
+    {
+      "date": "2025-04-02",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 892
+    },
+    {
+      "date": "2025-04-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 893
+    },
+    {
+      "date": "2025-04-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 894
+    },
+    {
+      "date": "2025-04-06",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 895
+    },
+    {
+      "date": "2025-04-13",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false,
+      "careerGoalNum": 896
+    },
+    {
+      "date": "2025-04-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false,
+      "careerGoalNum": 897
+    }
+  ]
+}

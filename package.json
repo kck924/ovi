@@ -1,0 +1,29 @@
+{
+  "name": "ovechkin-goals-visualization",
+  "version": "1.0.0",
+  "description": "Interactive visualization of Alex Ovechkin's NHL goals",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "collect:hr": "node scripts/scrape-hockey-reference.js",
+    "collect:simple": "node scripts/scrape-simple.js",
+    "collect:nhl": "node scripts/fetch-nhl-api.js",
+    "merge": "python scripts/merge_goal_data.py"
+  },
+  "dependencies": {
+    "d3": "^7.8.5",
+    "framer-motion": "^10.16.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "scrollama": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "puppeteer": "^21.5.2",
+    "vite": "^5.0.0"
+  }
+}

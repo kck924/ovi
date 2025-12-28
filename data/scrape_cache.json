@@ -1,0 +1,7218 @@
+{
+  "gamelog_2006": [
+    {
+      "date": "2005-10-05",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-10-05",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-10-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-10-12",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-10-20",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-10-20",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-10-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-10-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "SH",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-11-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-11-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-11-08",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-11-08",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-11-11",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-11-15",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-11-17",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-03",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-07",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-09",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-22",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-23",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-27",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2005-12-31",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-01",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-12",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MDA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MDA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MDA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-16",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHX",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-16",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHX",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-19",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-01-25",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-02-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-02-11",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PIT",
+      "goalType": "SH",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-02-28",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-02",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "OTT",
+      "goalType": "SH",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-04",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-06",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-08",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-14",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-20",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-23",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-23",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-25",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-03-29",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-04-10",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-04-13",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-04-15",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-04-17",
+      "season": "20052006",
+      "seasonDisplay": "2005-06",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2007": [
+    {
+      "date": "2006-10-07",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-10-07",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-10-19",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-10-21",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-10-25",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-10-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-06",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-06",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-11",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-13",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-18",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-24",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-25",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-11-28",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-02",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-09",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-15",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-15",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-15",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-16",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-19",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-23",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2006-12-26",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-01-06",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-01-09",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-01-09",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-01-18",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-01-26",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-01-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-01-30",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-02-01",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-02-10",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-02-25",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-02-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-02-27",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-03-01",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-03-10",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-03-12",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-03-12",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-03-22",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-03-22",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-04-03",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-04-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-04-04",
+      "season": "20062007",
+      "seasonDisplay": "2006-07",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2008": [
+    {
+      "date": "2007-10-06",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-10-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-10-13",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-10-18",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-10-24",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-10-26",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-10-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-10-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-02",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-08",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-10",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-15",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-16",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-24",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-24",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-26",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-30",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-11-30",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-01",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-08",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-14",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-17",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-22",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-27",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2007-12-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-13",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-15",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-17",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-19",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-23",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-01-31",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-02-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-02-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-02-06",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-02-10",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-02-13",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-01",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-05",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-12",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-14",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-18",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-21",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-25",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-03-29",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-04-01",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-04-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-04-03",
+      "season": "20072008",
+      "seasonDisplay": "2007-08",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2009": [
+    {
+      "date": "2008-10-11",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-10-11",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-10",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-24",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-11-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-04",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-10",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-16",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-16",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-18",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-23",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-23",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-26",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2008-12-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-03",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYR",
+      "goalType": "SH",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-31",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-01-31",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-05",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-15",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-18",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-22",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-24",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-02-28",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-08",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-12",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-14",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-19",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-24",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-27",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-03-27",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-04-01",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-04-03",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-04-11",
+      "season": "20082009",
+      "seasonDisplay": "2008-09",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2010": [
+    {
+      "date": "2009-10-01",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-01",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-03",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-15",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-15",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-27",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-27",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-29",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-29",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-10-30",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-11-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-11-21",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-11-25",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-11-28",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-12",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-19",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-19",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-23",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-26",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2009-12-30",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-13",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-15",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-17",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-21",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-21",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-23",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PHX",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-27",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-01-31",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-02-02",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-02-04",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-02-04",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-02-05",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-02-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-02-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-02-07",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-03-08",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-03-08",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-03-20",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-03-28",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-04-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-04-06",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-04-09",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-04-09",
+      "season": "20092010",
+      "seasonDisplay": "2009-10",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2011": [
+    {
+      "date": "2010-10-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-10-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-10-11",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-10-13",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-10-28",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-10-30",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-10-30",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-11-05",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-11-11",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-11-14",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-12-04",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "ATL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-12-06",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-12-26",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2010-12-28",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-01-08",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-01-18",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-01-22",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-01-22",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-01-22",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-02-04",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-02-12",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-02-16",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-02-17",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-02-21",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-03-01",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-03-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-03-09",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-03-11",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-03-16",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-04-02",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-04-05",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-04-06",
+      "season": "20102011",
+      "seasonDisplay": "2010-11",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2012": [
+    {
+      "date": "2011-10-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-10-20",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-10-20",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-10-29",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-10-29",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-11-05",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-11-11",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-11-25",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-15",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-20",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-26",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-30",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-30",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-31",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2011-12-31",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-01-03",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-01-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-01-18",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-01-22",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-02-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-02-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-02-09",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-02-17",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-02-24",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-02-28",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-08",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-13",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-18",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-19",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-19",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-22",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-23",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-23",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-03-25",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-04-05",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2012-04-07",
+      "season": "20112012",
+      "seasonDisplay": "2011-12",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2013": [
+    {
+      "date": "2013-01-27",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-01-31",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-02-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-02-09",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-02-12",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-02-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-02-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-02-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-14",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-17",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-19",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-21",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-22",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-22",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-24",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-30",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-03-31",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-02",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-02",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-06",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-06",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-06",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-07",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-09",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-13",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-16",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-20",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-20",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-23",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-04-25",
+      "season": "20122013",
+      "seasonDisplay": "2012-13",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2014": [
+    {
+      "date": "2013-10-01",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-03",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-03",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-14",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-19",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-10-24",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-07",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-12",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-15",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-17",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-17",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-22",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-23",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-11-30",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-07",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-15",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-17",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-20",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2013-12-21",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-02",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-10",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-14",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-15",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-19",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-25",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-28",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-01-28",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-02-02",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-02-06",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-02-27",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-03-01",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-03-01",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-03-05",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-03-14",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-03-18",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-03-25",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-03-25",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-04-04",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-04-08",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-04-11",
+      "season": "20132014",
+      "seasonDisplay": "2013-14",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2015": [
+    {
+      "date": "2014-10-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-10-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-10-14",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-10-14",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-10-16",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-11-02",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-11-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-11-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-11-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-11-26",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-11-26",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-11-28",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-12-09",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-12-09",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-12-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-12-23",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2014-12-29",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-04",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-07",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-08",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-12",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-16",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-16",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-17",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-20",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-28",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-01-28",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-05",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-08",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-14",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-15",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-15",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-17",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-19",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-02-25",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-01",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-03",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-03",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-07",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-19",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-19",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-29",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-29",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-03-31",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-04-02",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-04-02",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-04-11",
+      "season": "20142015",
+      "seasonDisplay": "2014-15",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2016": [
+    {
+      "date": "2015-10-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-10-15",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-10-17",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-10-20",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-10-22",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-11-03",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-11-05",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-11-07",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-11-19",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-11-21",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-11-25",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-11-27",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-08",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-20",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-28",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-30",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-30",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2015-12-31",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-01-07",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-01-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-01-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-01-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-01-10",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-01-17",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-01-19",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-04",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-07",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-11",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-11",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-11",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-13",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-18",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-20",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-22",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "ARI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-02-26",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-03-02",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-03-15",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-03-22",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-03-30",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-04-01",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-04-05",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-04-05",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-04-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-04-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-04-09",
+      "season": "20152016",
+      "seasonDisplay": "2015-16",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2017": [
+    {
+      "date": "2016-10-18",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-10-20",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-10-22",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-10-26",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-03",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-03",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-05",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-16",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-20",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-11-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-12-11",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-12-16",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-12-23",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-12-27",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2016-12-31",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-01-03",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-01-09",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-01-11",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-01-11",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-01-21",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-01-26",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-01-31",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-02-01",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-02-07",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-02-19",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-03-14",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-03-21",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-03-25",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-03-28",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-03-28",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-03-28",
+      "season": "20162017",
+      "seasonDisplay": "2016-17",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2018": [
+    {
+      "date": "2017-10-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-11",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-13",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-10-20",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-04",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-06",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-22",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-24",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-11-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-12-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-12-04",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-12-06",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-12-14",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-12-16",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2017-12-28",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-01-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-01-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-01-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-01-12",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-01-21",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-01-25",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-11",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-15",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-19",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-20",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-24",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-24",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "BUF",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-02-26",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-03-03",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-03-12",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-03-12",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "WPG",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-03-18",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-03-20",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-03-26",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-04-02",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-04-05",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-04-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-04-07",
+      "season": "20172018",
+      "seasonDisplay": "2017-18",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2019": [
+    {
+      "date": "2018-10-03",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-10-04",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-10-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-10-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-10-17",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-10-17",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-10-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-10-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-01",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-01",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-05",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-07",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-16",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-19",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-19",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-23",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-24",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-26",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-11-30",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-04",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-06",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "ARI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-08",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2018-12-15",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-03",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-10",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-22",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-01-23",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-02-11",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-02-14",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-02-17",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "ANA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-02-18",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-02-18",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-02-21",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-02-23",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-03-01",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-03-06",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-03-16",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-03-16",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-03-26",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-03-30",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-03-30",
+      "season": "20182019",
+      "seasonDisplay": "2018-19",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2020": [
+    {
+      "date": "2019-10-02",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-10",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-10",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-12",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DAL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-14",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-20",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-22",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-24",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-24",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-10-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-15",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "ANA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-27",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "TBL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-30",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-30",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-11-30",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-12-09",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-12-20",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-12-23",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2019-12-28",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-07",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-13",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-13",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-16",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-16",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-16",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-18",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-29",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-31",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-01-31",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-02-04",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-02-04",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-02-04",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "LAK",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-02-20",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-02-22",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-02-25",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-03-01",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MIN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-03-01",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-03-05",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-03-05",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2020-03-09",
+      "season": "20192020",
+      "seasonDisplay": "2019-20",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2021": [
+    {
+      "date": "2021-01-17",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PIT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-01-30",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-02-04",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-02-07",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-02-07",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-02-21",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-02-28",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-07",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-11",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-13",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-15",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-16",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-19",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-19",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-25",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-26",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-26",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-03-28",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-04-04",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-04-08",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-04-09",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-04-13",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-04-17",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-04-17",
+      "season": "20202021",
+      "seasonDisplay": "2020-21",
+      "opponent": "PHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2022": [
+    {
+      "date": "2021-10-13",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-13",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYR",
+      "goalType": "SH",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-16",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-19",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-23",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-25",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-25",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-27",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-10-29",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "ARI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-04",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-08",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-12",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SJS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-21",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-11-28",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-12-04",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-12-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-12-17",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-12-31",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2021-12-31",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DET",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-01-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-01-16",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-01-18",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-01-22",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-01-22",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-02-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-02-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NSH",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-02-24",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-03",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-05",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "SEA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-08",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-08",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CGY",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-15",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-17",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-18",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-25",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-03-26",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-06",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-09",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-10",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-12",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-16",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-18",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-04-20",
+      "season": "20212022",
+      "seasonDisplay": "2021-22",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2023": [
+    {
+      "date": "2022-10-17",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-10-17",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-10-24",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-10-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-10-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-03",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-05",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "ARI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-07",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-17",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-25",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-11-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-07",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-07",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-09",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-11",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-13",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-13",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-13",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-29",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2022-12-31",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MTL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-01-03",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-01-03",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-01-05",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-01-14",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-01-24",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "COL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-01-26",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-02-26",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-04",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-04",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-06",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "LAK",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-15",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-19",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-19",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-21",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-23",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-03-25",
+      "season": "20222023",
+      "seasonDisplay": "2022-23",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2024": [
+    {
+      "date": "2023-10-24",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-10-25",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-11-11",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-11-11",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NYI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-11-18",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-12-21",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CBJ",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2023-12-30",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-01-02",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-01-27",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "DAL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-02-06",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-02-08",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "FLA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-02-10",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "BOS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-02-11",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-02-13",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "COL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-02-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-02-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "NJD",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-01",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-07",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-16",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "VAN",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-18",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-18",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-20",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "TOR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-22",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-24",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-03-24",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-04-04",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-04-05",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-04-05",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "CAR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-04-09",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-04-16",
+      "season": "20232024",
+      "seasonDisplay": "2023-24",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    }
+  ],
+  "gamelog_2025": [
+    {
+      "date": "2024-10-19",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NJD",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-10-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-10-29",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-10-29",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-10-31",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "MTL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-02",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-03",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-06",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-09",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "STL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-09",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "STL",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "VEG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "VEG",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-18",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "UTA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-11-18",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "UTA",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-12-28",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "TOR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2024-12-29",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "DET",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-01-02",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "MIN",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-01-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-01-11",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NSH",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-01-16",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "OTT",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-01-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-01-30",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "OTT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-02-01",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-02-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "FLA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-02-06",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-02-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-02-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "EDM",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-02-23",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "EDM",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-02-25",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CGY",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-03-01",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "TBL",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-03-05",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-03-09",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "SEA",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-03-15",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "SJS",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-03-20",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-03-25",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "WPG",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-03-30",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "BUF",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-04-01",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "BOS",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-04-02",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CAR",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-04-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CHI",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-04-04",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CHI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-04-06",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "NYI",
+      "goalType": "PP",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-04-13",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "CBJ",
+      "goalType": "EV",
+      "isPlayoffs": false
+    },
+    {
+      "date": "2025-04-17",
+      "season": "20242025",
+      "seasonDisplay": "2024-25",
+      "opponent": "PIT",
+      "goalType": "PP",
+      "isPlayoffs": false
+    }
+  ]
+}

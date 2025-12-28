@@ -1,0 +1,272 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #0a0a0a;
+  color: #fff;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+  min-height: 80px;
+  background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);
+  border-bottom: 1px solid #222;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex: 1;
+}
+
+.player-number {
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: #c8102e;
+  line-height: 1;
+}
+
+.player-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.player-name {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.player-subtitle {
+  font-size: 0.7rem;
+  color: #666;
+  letter-spacing: 0.1em;
+}
+
+.header-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: visible;
+}
+
+.total-goals {
+  font-size: 3rem;
+  font-weight: 900;
+  background: linear-gradient(135deg, #c8102e 0%, #ff6b6b 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
+}
+
+.total-label {
+  font-size: 0.75rem;
+  color: #666;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.total-sublabel {
+  font-size: 0.65rem;
+  color: #888;
+  font-style: italic;
+  margin-top: 0.15rem;
+}
+
+.header-right {
+  flex: 1;
+  text-align: right;
+}
+
+.header-decoration {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 150px;
+  pointer-events: none;
+}
+
+.header-decoration.right {
+  left: 100%;
+  margin-left: 0.25rem;
+}
+
+.header-decoration.left {
+  right: 100%;
+  margin-right: 0.25rem;
+}
+
+.record-text {
+  font-size: 0.65rem;
+  color: #ffd700;
+  letter-spacing: 0.1em;
+}
+
+/* Loading Screen */
+.loading-screen {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0a0a0a;
+}
+
+.loading-content {
+  text-align: center;
+}
+
+.loading-number {
+  font-size: 8rem;
+  font-weight: 900;
+  color: #c8102e;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.05); }
+}
+
+.loading-text {
+  color: #666;
+  font-size: 0.875rem;
+  margin-top: 1rem;
+}
+
+/* Error Screen */
+.error-screen {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #0a0a0a;
+  color: #888;
+}
+
+.error-screen h1 {
+  color: #c8102e;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+.app-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.5rem 1rem;
+  background: linear-gradient(0deg, #0a0a0a 0%, transparent 100%);
+  text-align: center;
+  font-size: 0.7rem;
+  color: #555;
+  letter-spacing: 0.05em;
+  pointer-events: none;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.data-attribution {
+  color: #444;
+}
+
+/* Mobile elements - hidden on desktop */
+.mobile-goals-count,
+.mobile-header-image {
+  display: none;
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  body {
+    overflow: auto;
+  }
+
+  .app {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  .app-header {
+    padding: 0.5rem 0.75rem;
+    min-height: auto;
+    justify-content: center;
+  }
+
+  .header-left {
+    flex: 0 0 auto;
+    gap: 0.5rem;
+  }
+
+  .player-number {
+    font-size: 1.5rem;
+  }
+
+  .player-name {
+    font-size: 0.75rem;
+  }
+
+  .player-subtitle {
+    font-size: 0.55rem;
+  }
+
+  .header-center {
+    display: none;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .mobile-header-image {
+    display: block;
+    height: 45px;
+    margin: 0 auto;
+    flex: 1;
+    object-fit: contain;
+  }
+
+  .mobile-goals-count {
+    display: flex;
+    align-items: baseline;
+    gap: 0.35rem;
+  }
+
+  .mobile-goals-number {
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: #c8102e;
+  }
+
+  .mobile-goals-text {
+    font-size: 0.55rem;
+    color: #666;
+    letter-spacing: 0.05em;
+  }
+
+  .app-footer {
+    position: relative;
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+}
