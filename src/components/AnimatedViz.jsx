@@ -519,7 +519,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 32) {
+                    const endTime = 32
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
@@ -565,7 +571,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 60) {
+                    const endTime = 60
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
@@ -611,7 +623,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 60) {
+                    const endTime = 60
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
@@ -657,7 +675,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 60) {
+                    const endTime = 60
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
@@ -703,7 +727,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 60) {
+                    const endTime = 60
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
@@ -749,7 +779,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 60) {
+                    const endTime = 60
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
@@ -795,7 +831,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 50) {
+                    const endTime = 50
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
@@ -841,7 +883,13 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                   muted={videoMuted}
                   {...(isMobile && { playsInline: true })}
                   onTimeUpdate={(e) => {
-                    if (e.target.currentTime >= 60) {
+                    const endTime = 60
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
                       setIsPaused(false)
                     }
                   }}
