@@ -224,6 +224,24 @@ body {
   gap: 1.5rem;
 }
 
+.author-credit {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.linkedin-link {
+  color: #555;
+  display: flex;
+  align-items: center;
+  pointer-events: auto;
+  transition: color 0.2s;
+}
+
+.linkedin-link:hover {
+  color: #0a66c2;
+}
+
 .data-attribution {
   color: #444;
 }
