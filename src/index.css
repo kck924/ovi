@@ -242,6 +242,18 @@ body {
   color: #0a66c2;
 }
 
+.email-link {
+  color: #555;
+  display: flex;
+  align-items: center;
+  pointer-events: auto;
+  transition: color 0.2s;
+}
+
+.email-link:hover {
+  color: #c8102e;
+}
+
 .data-attribution {
   color: #444;
 }

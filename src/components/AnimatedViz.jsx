@@ -24,7 +24,7 @@ const VIDEO_BASE = 'https://dbkseqndwgeyacafisjv.supabase.co/storage/v1/object/p
 export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [isPlaying, setIsPlaying] = useState(false) // Start paused until countdown finishes
-  const [speed, setSpeed] = useState(30) // goals per second
+  const [speed, setSpeed] = useState(15) // goals per second
   const [isPaused, setIsPaused] = useState(false) // milestone pause
   const [showVideo, setShowVideo] = useState(null) // which milestone video to show
   const [videoMuted, setVideoMuted] = useState(true) // video audio state
@@ -178,6 +178,11 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
 
     // Check for milestone pause
     if (MILESTONES.includes(goalIndex + 1)) {
+      // Goal 33 only pauses for video - skip entirely if skip videos is enabled
+      if (goalIndex + 1 === 33 && skipAllVideos) {
+        return
+      }
+
       setIsPaused(true)
       // Goals with videos - let video control resume (unless skip all videos is enabled)
       // Other milestones auto-resume after 1.5s
@@ -447,6 +452,11 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
       </div>
 
       <div className="viz-panel rink-container">
+        {/* Mobile note */}
+        <div className="mobile-screen-note">
+          Best experienced on larger screens
+        </div>
+
         {/* Cumulative goals chart */}
         <div className="chart-area">
           <CumulativeChart
@@ -482,7 +492,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
 
         {/* Milestone overlay */}
         <AnimatePresence>
-          {isPaused && MILESTONES.includes(currentIndex) && currentIndex !== 500 && (
+          {isPaused && MILESTONES.includes(currentIndex) && ![33, 500].includes(currentIndex) && (
             <motion.div
               className="milestone-overlay"
               initial={{ opacity: 0, scale: 0.8 }}
@@ -492,11 +502,12 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
               <div className="milestone-content">
                 <div className="milestone-number">{currentIndex}</div>
                 <div className="milestone-label">
+                  {currentIndex === 767 && "PASSES JAROMÍR JÁGR"}
                   {currentIndex === 802 && "PASSES GORDIE HOWE"}
                   {currentIndex === 894 && "TIES WAYNE GRETZKY"}
                   {currentIndex === 895 && "ALL-TIME LEADER"}
                   {currentIndex === 900 && "900 GOALS"}
-                  {![802, 894, 895, 900].includes(currentIndex) && "GOALS"}
+                  {![767, 802, 894, 895, 900].includes(currentIndex) && "GOALS"}
                 </div>
               </div>
             </motion.div>
@@ -1312,6 +1323,10 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
           display: none;
         }
 
+        .mobile-screen-note {
+          display: none;
+        }
+
         .flying-particle {
           position: absolute;
           width: 5px;
@@ -1837,6 +1852,16 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
           .rink-container {
             order: 1;
             min-height: 350px;
+          }
+
+          .mobile-screen-note {
+            display: block;
+            text-align: center;
+            font-size: 0.65rem;
+            color: #666;
+            font-style: italic;
+            padding: 0.5rem;
+            border-bottom: 1px solid #222;
           }
 
           .chart-area {

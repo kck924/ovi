@@ -7,6 +7,8 @@
 import { useMemo } from 'react'
 
 const REFERENCE_LINES = [
+  { value: 100, label: '100', color: '#444' },
+  { value: 300, label: '300', color: '#444' },
   { value: 500, label: '500', color: '#555' },
   { value: 700, label: '700', color: '#555' },
   { value: 766, label: 'Jagr (766)', color: '#888' },
@@ -82,6 +84,16 @@ export default function CumulativeChart({
 
       <div className="chart-main">
         <svg viewBox="0 0 100 100" preserveAspectRatio="none" className="chart-svg">
+          {/* Baseline at 0 */}
+          <line
+            x1="0"
+            y1={getY(0)}
+            x2="100"
+            y2={getY(0)}
+            stroke="#666"
+            strokeWidth="0.8"
+          />
+
           {/* Reference lines */}
           {REFERENCE_LINES.map(ref => {
             const y = getY(ref.value)

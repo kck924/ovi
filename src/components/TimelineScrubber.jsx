@@ -57,6 +57,18 @@ export default function TimelineScrubber({
     }
   }, [isDragging, handleMouseMove, handleMouseUp])
 
+  // Keyboard arrow key support when paused
+  const handleKeyDown = useCallback((e) => {
+    if (isPlaying) return
+    if (e.key === 'ArrowLeft') {
+      e.preventDefault()
+      onSeek?.(Math.max(0, currentGoal - 1))
+    } else if (e.key === 'ArrowRight') {
+      e.preventDefault()
+      onSeek?.(Math.min(totalGoals, currentGoal + 1))
+    }
+  }, [isPlaying, currentGoal, totalGoals, onSeek])
+
   return (
     <div className="timeline-scrubber">
       {/* Counter */}
@@ -86,6 +98,7 @@ export default function TimelineScrubber({
         <div
           ref={trackRef}
           className={`progress-track ${!isPlaying ? 'draggable' : ''}`}
+          tabIndex={0}
           onClick={(e) => {
             if (isPlaying) {
               const rect = e.currentTarget.getBoundingClientRect()
@@ -94,6 +107,7 @@ export default function TimelineScrubber({
             }
           }}
           onMouseDown={handleMouseDown}
+          onKeyDown={handleKeyDown}
         >
           <div
             className="progress-fill"
@@ -110,12 +124,35 @@ export default function TimelineScrubber({
 
       {/* Controls */}
       <div className="controls-section">
-        <button
-          className="play-btn"
-          onClick={onPlayPause}
-        >
-          {isPlaying ? '⏸' : '▶'}
-        </button>
+        <div className="play-control">
+          <button
+            className="play-btn"
+            onClick={onPlayPause}
+          >
+            {isPlaying ? '⏸' : '▶'}
+          </button>
+          <div className="play-hint">Pause to scrub (← →)</div>
+        </div>
+
+        {/* Fine control buttons when paused */}
+        {!isPlaying && (
+          <div className="fine-controls">
+            <button
+              className="step-btn"
+              onClick={() => onSeek?.(Math.max(0, currentGoal - 1))}
+              title="Previous goal"
+            >
+              ‹
+            </button>
+            <button
+              className="step-btn"
+              onClick={() => onSeek?.(Math.min(totalGoals, currentGoal + 1))}
+              title="Next goal"
+            >
+              ›
+            </button>
+          </div>
+        )}
 
         <div className="speed-control">
           <span className="speed-label">Speed</span>
@@ -207,6 +244,11 @@ export default function TimelineScrubber({
           cursor: grabbing;
         }
 
+        .progress-track:focus {
+          outline: none;
+          box-shadow: 0 0 0 2px rgba(200, 16, 46, 0.5);
+        }
+
         .progress-thumb {
           position: absolute;
           top: 50%;
@@ -247,6 +289,45 @@ export default function TimelineScrubber({
 
         .play-btn:hover, .reset-btn:hover {
           border-color: #c8102e;
+        }
+
+        .play-control {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          gap: 0.25rem;
+        }
+
+        .play-hint {
+          font-size: 0.5rem;
+          color: #555;
+          white-space: nowrap;
+        }
+
+        .fine-controls {
+          display: flex;
+          gap: 0.25rem;
+        }
+
+        .step-btn {
+          width: 24px;
+          height: 24px;
+          border-radius: 4px;
+          border: 1px solid #333;
+          background: #1a1a1a;
+          color: #fff;
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-size: 1rem;
+          font-weight: bold;
+          line-height: 1;
+        }
+
+        .step-btn:hover {
+          border-color: #c8102e;
+          background: #222;
         }
 
         .speed-control {
@@ -359,6 +440,14 @@ export default function TimelineScrubber({
           }
 
           .skip-videos-toggle {
+            display: none;
+          }
+
+          .play-hint {
+            display: none;
+          }
+
+          .fine-controls {
             display: none;
           }
         }
