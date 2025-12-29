@@ -18,7 +18,7 @@ import CumulativeChart from './CumulativeChart'
 import UniquesChart from './UniquesChart'
 import PlayerHeadshot from './PlayerHeadshot'
 
-const MILESTONES = [33, 500, 700, 767, 800, 802, 894, 895, 900]
+const MILESTONES = [33, 100, 200, 300, 400, 500, 600, 700, 767, 800, 802, 894, 895, 900]
 const VIDEO_BASE = 'https://dbkseqndwgeyacafisjv.supabase.co/storage/v1/object/public/ovivideos'
 
 export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
@@ -181,7 +181,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
       setIsPaused(true)
       // Goals with videos - let video control resume (unless skip all videos is enabled)
       // Other milestones auto-resume after 1.5s
-      const videoMilestones = [33, 500, 700, 767, 800, 802, 895, 900]
+      const videoMilestones = [33, 100, 200, 300, 400, 500, 600, 700, 767, 800, 802, 895, 900]
       if (skipAllVideos || !videoMilestones.includes(goalIndex + 1)) {
         setTimeout(() => setIsPaused(false), 1500)
       }
@@ -555,6 +555,214 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
           )}
         </AnimatePresence>
 
+        {/* 100th goal video */}
+        <AnimatePresence>
+          {isPaused && currentIndex === 100 && !skipAllVideos && (
+            <motion.div
+              className="video-overlay"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            >
+              <div className="video-wispy">
+                <video
+                  src="/100th.mp4"
+                  autoPlay
+                  muted={videoMuted}
+                  {...(isMobile && { playsInline: true })}
+                  onTimeUpdate={(e) => {
+                    const endTime = 30
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
+                      setIsPaused(false)
+                    }
+                  }}
+                  onEnded={() => setIsPaused(false)}
+                />
+                <div className="video-vignette" />
+              </div>
+              <div className="video-milestone-text">
+                <div className="milestone-number">100</div>
+                <div className="milestone-label">GOALS</div>
+              </div>
+              <div className="video-controls">
+                <div
+                  className="audio-icon"
+                  onClick={() => setVideoMuted(!videoMuted)}
+                >
+                  {videoMuted ? '🔇' : '🔊'}
+                </div>
+                <button
+                  className="skip-video-btn"
+                  onClick={() => setIsPaused(false)}
+                >
+                  Skip →
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        {/* 200th goal video */}
+        <AnimatePresence>
+          {isPaused && currentIndex === 200 && !skipAllVideos && (
+            <motion.div
+              className="video-overlay"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            >
+              <div className="video-wispy">
+                <video
+                  src="/200th.mp4"
+                  autoPlay
+                  muted={videoMuted}
+                  {...(isMobile && { playsInline: true })}
+                  onTimeUpdate={(e) => {
+                    const endTime = 30
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
+                      setIsPaused(false)
+                    }
+                  }}
+                  onEnded={() => setIsPaused(false)}
+                />
+                <div className="video-vignette" />
+              </div>
+              <div className="video-milestone-text">
+                <div className="milestone-number">200</div>
+                <div className="milestone-label">GOALS</div>
+              </div>
+              <div className="video-controls">
+                <div
+                  className="audio-icon"
+                  onClick={() => setVideoMuted(!videoMuted)}
+                >
+                  {videoMuted ? '🔇' : '🔊'}
+                </div>
+                <button
+                  className="skip-video-btn"
+                  onClick={() => setIsPaused(false)}
+                >
+                  Skip →
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        {/* 300th goal video */}
+        <AnimatePresence>
+          {isPaused && currentIndex === 300 && !skipAllVideos && (
+            <motion.div
+              className="video-overlay"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            >
+              <div className="video-wispy">
+                <video
+                  src="/300th.mp4"
+                  autoPlay
+                  muted={videoMuted}
+                  {...(isMobile && { playsInline: true })}
+                  onTimeUpdate={(e) => {
+                    const endTime = 30
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
+                      setIsPaused(false)
+                    }
+                  }}
+                  onEnded={() => setIsPaused(false)}
+                />
+                <div className="video-vignette" />
+              </div>
+              <div className="video-milestone-text">
+                <div className="milestone-number">300</div>
+                <div className="milestone-label">GOALS</div>
+              </div>
+              <div className="video-controls">
+                <div
+                  className="audio-icon"
+                  onClick={() => setVideoMuted(!videoMuted)}
+                >
+                  {videoMuted ? '🔇' : '🔊'}
+                </div>
+                <button
+                  className="skip-video-btn"
+                  onClick={() => setIsPaused(false)}
+                >
+                  Skip →
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        {/* 400th goal video */}
+        <AnimatePresence>
+          {isPaused && currentIndex === 400 && !skipAllVideos && (
+            <motion.div
+              className="video-overlay"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            >
+              <div className="video-wispy">
+                <video
+                  src="/400th.mp4"
+                  autoPlay
+                  muted={videoMuted}
+                  {...(isMobile && { playsInline: true })}
+                  onTimeUpdate={(e) => {
+                    const endTime = 30
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
+                      setIsPaused(false)
+                    }
+                  }}
+                  onEnded={() => setIsPaused(false)}
+                />
+                <div className="video-vignette" />
+              </div>
+              <div className="video-milestone-text">
+                <div className="milestone-number">400</div>
+                <div className="milestone-label">GOALS</div>
+              </div>
+              <div className="video-controls">
+                <div
+                  className="audio-icon"
+                  onClick={() => setVideoMuted(!videoMuted)}
+                >
+                  {videoMuted ? '🔇' : '🔊'}
+                </div>
+                <button
+                  className="skip-video-btn"
+                  onClick={() => setIsPaused(false)}
+                >
+                  Skip →
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
         {/* 500th goal video - autoplay first 60s with wispy edges */}
         <AnimatePresence>
           {isPaused && currentIndex === 500 && !skipAllVideos && (
@@ -587,6 +795,58 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
               </div>
               <div className="video-milestone-text">
                 <div className="milestone-number">500</div>
+                <div className="milestone-label">GOALS</div>
+              </div>
+              <div className="video-controls">
+                <div
+                  className="audio-icon"
+                  onClick={() => setVideoMuted(!videoMuted)}
+                >
+                  {videoMuted ? '🔇' : '🔊'}
+                </div>
+                <button
+                  className="skip-video-btn"
+                  onClick={() => setIsPaused(false)}
+                >
+                  Skip →
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        {/* 600th goal video */}
+        <AnimatePresence>
+          {isPaused && currentIndex === 600 && !skipAllVideos && (
+            <motion.div
+              className="video-overlay"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            >
+              <div className="video-wispy">
+                <video
+                  src="/600.mp4"
+                  autoPlay
+                  muted={videoMuted}
+                  {...(isMobile && { playsInline: true })}
+                  onTimeUpdate={(e) => {
+                    const endTime = 30
+                    const fadeStart = endTime - 3
+                    if (e.target.currentTime >= fadeStart && e.target.currentTime < endTime) {
+                      const fadeProgress = (e.target.currentTime - fadeStart) / 3
+                      e.target.volume = Math.max(0, 1 - fadeProgress)
+                    }
+                    if (e.target.currentTime >= endTime) {
+                      setIsPaused(false)
+                    }
+                  }}
+                  onEnded={() => setIsPaused(false)}
+                />
+                <div className="video-vignette" />
+              </div>
+              <div className="video-milestone-text">
+                <div className="milestone-number">600</div>
                 <div className="milestone-label">GOALS</div>
               </div>
               <div className="video-controls">

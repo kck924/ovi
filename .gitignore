@@ -5,7 +5,14 @@ dist
 .env
 data/*.csv
 
-# Large video files (too big for GitHub)
-public/*.mp4
+# Large video files (too big for GitHub/Vercel - hosted on Supabase)
+public/500th.mp4
+public/700th.mp4
+public/800th.mp4
+public/895.mp4
+public/900th.mp4
+public/passhowe.mp4
+public/passjagr.mp4
+public/thegoal.mp4
 .vercel
 .env*.local
