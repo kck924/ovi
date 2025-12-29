@@ -1,0 +1,46 @@
+name: Update Ovechkin Data
+
+on:
+  schedule:
+    # Run at 2am EST (7am UTC) daily
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest gamelog data
+        run: node scripts/fetch-gamelog.js
+
+      - name: Fetch latest goals data
+        run: node scripts/fetch-nhl-api.js
+
+      - name: Copy data to public folder
+        run: |
+          cp data/ovechkin_gamelog.json public/data/ovechkin_gamelog.json
+          cp data/ovechkin_goals.json public/data/ovechkin_goals.json 2>/dev/null || true
+          cp data/ovechkin_goals_complete.json public/data/ovechkin_goals_complete.json 2>/dev/null || true
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Auto-update Ovechkin data $(date +'%Y-%m-%d')"
+          git push
