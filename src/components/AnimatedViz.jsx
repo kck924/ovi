@@ -23,12 +23,14 @@ const VIDEO_BASE = 'https://dbkseqndwgeyacafisjv.supabase.co/storage/v1/object/p
 
 export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [isPlaying, setIsPlaying] = useState(true)
+  const [isPlaying, setIsPlaying] = useState(false) // Start paused until countdown finishes
   const [speed, setSpeed] = useState(30) // goals per second
   const [isPaused, setIsPaused] = useState(false) // milestone pause
   const [showVideo, setShowVideo] = useState(null) // which milestone video to show
   const [videoMuted, setVideoMuted] = useState(true) // video audio state
   const [skipAllVideos, setSkipAllVideos] = useState(false) // skip all milestone videos
+  const [countdown, setCountdown] = useState(3) // countdown before starting
+  const [showCountdown, setShowCountdown] = useState(true) // show countdown modal
 
   // Accumulated data up to current goal
   const [rinkGoals, setRinkGoals] = useState([])
@@ -57,6 +59,23 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
       window.removeEventListener('scroll', handleScroll)
     }
   }, [])
+
+  // Countdown timer
+  useEffect(() => {
+    if (!showCountdown) return
+
+    if (countdown > 0) {
+      const timer = setTimeout(() => setCountdown(countdown - 1), 1000)
+      return () => clearTimeout(timer)
+    } else {
+      // Countdown finished, start the experience
+      const timer = setTimeout(() => {
+        setShowCountdown(false)
+        setIsPlaying(true)
+      }, 800)
+      return () => clearTimeout(timer)
+    }
+  }, [countdown, showCountdown])
 
   // Filter to regular season only
   const regularGoals = goals.filter(g => !g.isPlayoffs)
@@ -237,6 +256,31 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
 
   return (
     <div className="animated-viz">
+      {/* Countdown modal */}
+      <AnimatePresence>
+        {showCountdown && (
+          <motion.div
+            className="countdown-overlay"
+            initial={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.5 }}
+          >
+            <div className="countdown-content">
+              <div className="countdown-title">Ovi goal experience starting in</div>
+              <motion.div
+                className="countdown-number"
+                key={countdown}
+                initial={{ scale: 1.5, opacity: 0 }}
+                animate={{ scale: 1, opacity: 1 }}
+                transition={{ duration: 0.3 }}
+              >
+                {countdown > 0 ? countdown : 'GO!'}
+              </motion.div>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/* Floating headshot in header area */}
       <div className="floating-headshot">
         <PlayerHeadshot
@@ -893,6 +937,38 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
       </div>
 
       <style>{`
+        .countdown-overlay {
+          position: fixed;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background: rgba(10, 10, 10, 0.95);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          z-index: 1000;
+        }
+
+        .countdown-content {
+          text-align: center;
+        }
+
+        .countdown-title {
+          font-size: 1.5rem;
+          color: #888;
+          margin-bottom: 1rem;
+          letter-spacing: 0.05em;
+        }
+
+        .countdown-number {
+          font-size: 8rem;
+          font-weight: 900;
+          color: #c8102e;
+          line-height: 1;
+          text-shadow: 0 4px 20px rgba(200, 16, 46, 0.5);
+        }
+
         .animated-viz {
           display: grid;
           grid-template-columns: 280px 1fr 280px;
