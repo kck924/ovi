@@ -516,7 +516,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/thegoal.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 32) {
@@ -562,7 +561,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/500th.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 60) {
@@ -608,7 +606,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/700th.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 60) {
@@ -654,7 +651,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/passjagr.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 60) {
@@ -700,7 +696,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/800th.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 60) {
@@ -746,7 +741,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/passhowe.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 60) {
@@ -792,7 +786,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/895.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 50) {
@@ -838,7 +831,6 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
                 <video
                   src={`${VIDEO_BASE}/900th.mp4`}
                   autoPlay
-                  playsInline
                   muted={videoMuted}
                   onTimeUpdate={(e) => {
                     if (e.target.currentTime >= 60) {
