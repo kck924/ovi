@@ -920,8 +920,12 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
               <span className="info-value">{currentGoal.goalieName || '—'}</span>
             </div>
             <div className="info-row">
-              <span className="info-label">Assist</span>
+              <span className="info-label">1st Assist</span>
               <span className="info-value">{currentGoal.primaryAssist || '—'}</span>
+            </div>
+            <div className="info-row">
+              <span className="info-label">2nd Assist</span>
+              <span className="info-value">{currentGoal.secondaryAssist || '—'}</span>
             </div>
             <div className="info-row">
               <span className="info-label">Shot</span>
