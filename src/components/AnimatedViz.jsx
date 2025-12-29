@@ -960,6 +960,10 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
         {currentGoal && (
           <div className="current-goal-info">
             <div className="info-row">
+              <span className="info-label">Date</span>
+              <span className="info-value">{currentGoal.gameDate ? new Date(currentGoal.gameDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—'}</span>
+            </div>
+            <div className="info-row">
               <span className="info-label">vs</span>
               <span className="info-value">{currentGoal.opponent || '—'}</span>
             </div>
