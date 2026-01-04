@@ -1,7 +1,7 @@
 {
   "player": "Alex Ovechkin",
   "playerId": 8471214,
-  "totalGames": 1532,
+  "totalGames": 1533,
   "totalGoals": 912,
   "games": [
     {
@@ -16855,6 +16855,17 @@
       "points": 0,
       "cumulativeGoals": 912,
       "gameNumber": 1532
+    },
+    {
+      "gameId": 2025020652,
+      "date": "2026-01-03",
+      "season": "20252026",
+      "opponent": "CHI",
+      "goals": 0,
+      "assists": 0,
+      "points": 0,
+      "cumulativeGoals": 912,
+      "gameNumber": 1533
     }
   ]
 }
