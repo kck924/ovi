@@ -124,6 +124,7 @@ function App() {
           </a>
         </span>
         <span className="data-attribution">Data: NHL.com & Moneypuck</span>
+        <span className="broadcast-attribution">Video broadcast rights: FSN, Sportsnet, and Monumental Sports & Entertainment</span>
         <a href="https://www.japersrink.com" target="_blank" rel="noopener noreferrer" className="footer-jr">
           <img src="/jr.webp" alt="Japers' Rink" />
           <span>A Japers' Rink joint...</span>

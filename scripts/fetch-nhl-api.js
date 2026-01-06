@@ -12,12 +12,22 @@ import { fileURLToPath } from 'url'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_FILE = join(__dirname, '..', 'data', 'ovechkin_goals_complete.json')
 const CACHE_FILE = join(__dirname, '..', 'data', 'nhl_api_cache.json')
+const PLAYER_CACHE_FILE = join(__dirname, '..', 'data', 'player_name_cache.json')
 
 const OVI_PLAYER_ID = 8471214
-const DELAY_MS = 500 // NHL API is faster, shorter delay
+const DELAY_MS = 500 // Delay between game fetches
+const PLAYER_LOOKUP_DELAY_MS = 200 // Delay between player lookups
+const MAX_RETRIES = 3
+
+// Dynamically determine current season (NHL season spans two calendar years)
+// If we're in Jan-Aug, current season started last year; if Sep-Dec, it started this year
+const now = new Date()
+const currentYear = now.getFullYear()
+const currentMonth = now.getMonth() + 1 // 1-12
+const currentSeasonEndYear = currentMonth >= 9 ? currentYear + 1 : currentYear
 
 const SEASONS = []
-for (let year = 2006; year <= 2026; year++) {
+for (let year = 2006; year <= currentSeasonEndYear; year++) {
   SEASONS.push(year)
 }
 
@@ -25,10 +35,26 @@ function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms))
 }
 
-// Fetch player names for IDs
-const playerCache = {}
+// Fetch player names for IDs - persisted between runs
+let playerCache = {}
 
-async function getPlayerName(playerId) {
+function loadPlayerCache() {
+  if (existsSync(PLAYER_CACHE_FILE)) {
+    try {
+      playerCache = JSON.parse(readFileSync(PLAYER_CACHE_FILE, 'utf8'))
+      console.log(`Loaded player cache with ${Object.keys(playerCache).length} players`)
+    } catch (e) {
+      console.log('Could not load player cache, starting fresh')
+      playerCache = {}
+    }
+  }
+}
+
+function savePlayerCache() {
+  writeFileSync(PLAYER_CACHE_FILE, JSON.stringify(playerCache, null, 2))
+}
+
+async function getPlayerName(playerId, retryCount = 0) {
   if (!playerId) return null
   if (playerCache[playerId]) return playerCache[playerId]
 
@@ -37,11 +63,29 @@ async function getPlayerName(playerId) {
     if (res.ok) {
       const data = await res.json()
       const name = `${data.firstName?.default || ''} ${data.lastName?.default || ''}`.trim()
-      playerCache[playerId] = name
-      return name
+      if (name) {
+        playerCache[playerId] = name
+        return name
+      }
+    } else if (res.status === 429 && retryCount < MAX_RETRIES) {
+      // Rate limited - wait and retry
+      const waitTime = (retryCount + 1) * 2000
+      console.log(`  Rate limited on player ${playerId}, waiting ${waitTime}ms...`)
+      await delay(waitTime)
+      return getPlayerName(playerId, retryCount + 1)
+    } else if (res.status >= 500 && retryCount < MAX_RETRIES) {
+      // Server error - retry
+      await delay(1000)
+      return getPlayerName(playerId, retryCount + 1)
+    } else {
+      console.log(`  Failed to fetch player ${playerId}: HTTP ${res.status}`)
     }
   } catch (e) {
-    // Ignore errors
+    if (retryCount < MAX_RETRIES) {
+      await delay(1000)
+      return getPlayerName(playerId, retryCount + 1)
+    }
+    console.log(`  Error fetching player ${playerId}: ${e.message}`)
   }
   return null
 }
@@ -108,11 +152,14 @@ async function fetchSeasonGames(seasonId, gameType = 2) {
 async function main() {
   console.log('=== NHL API Ovechkin Goals Fetcher ===\n')
 
+  // Load caches
+  loadPlayerCache()
+
   let cache = {}
   if (existsSync(CACHE_FILE)) {
     try {
       cache = JSON.parse(readFileSync(CACHE_FILE, 'utf8'))
-      console.log(`Loaded cache with ${Object.keys(cache).length} games\n`)
+      console.log(`Loaded game cache with ${Object.keys(cache).length} games\n`)
     } catch (e) {
       console.log('Starting fresh\n')
     }
@@ -178,19 +225,27 @@ async function main() {
     if (g.assist2Id) playerIds.add(g.assist2Id)
   })
 
-  console.log(`  Looking up ${playerIds.size} players...`)
+  // Count how many need lookup
+  const uncachedIds = [...playerIds].filter(id => !playerCache[id])
+  console.log(`  ${playerIds.size} unique players, ${uncachedIds.length} need lookup (${playerIds.size - uncachedIds.length} cached)`)
 
   let lookupCount = 0
-  for (const id of playerIds) {
-    if (!playerCache[id]) {
-      await getPlayerName(id)
-      lookupCount++
-      if (lookupCount % 50 === 0) {
-        console.log(`  ${lookupCount}/${playerIds.size}...`)
-      }
-      await delay(100)
+  let failedCount = 0
+  for (const id of uncachedIds) {
+    const name = await getPlayerName(id)
+    lookupCount++
+    if (!name) failedCount++
+    if (lookupCount % 25 === 0) {
+      console.log(`  Progress: ${lookupCount}/${uncachedIds.length} (${failedCount} failed)...`)
+      // Save cache periodically during lookup
+      savePlayerCache()
     }
+    await delay(PLAYER_LOOKUP_DELAY_MS)
   }
+
+  // Save player cache
+  savePlayerCache()
+  console.log(`  Completed: ${lookupCount} lookups, ${failedCount} failed, ${Object.keys(playerCache).length} total cached`)
 
   // Enrich goals with player names
   const enrichedGoals = allGoals.map(g => ({

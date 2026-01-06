@@ -258,6 +258,11 @@ body {
   color: #444;
 }
 
+.broadcast-attribution {
+  color: #444;
+  font-size: 0.65rem;
+}
+
 .footer-jr {
   display: none;
   text-decoration: none;
