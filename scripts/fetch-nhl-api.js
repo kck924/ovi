@@ -90,61 +90,97 @@ async function getPlayerName(playerId, retryCount = 0) {
   return null
 }
 
-async function fetchGameGoals(gameId) {
+async function fetchGameGoals(gameId, retryCount = 0) {
   try {
     const res = await fetch(`https://api-web.nhle.com/v1/gamecenter/${gameId}/play-by-play`)
-    if (!res.ok) return []
+    if (res.ok) {
+      const data = await res.json()
+      const goals = []
 
-    const data = await res.json()
-    const goals = []
+      for (const play of data.plays || []) {
+        if (play.typeDescKey !== 'goal') continue
+        if (play.details?.scoringPlayerId !== OVI_PLAYER_ID) continue
 
-    for (const play of data.plays || []) {
-      if (play.typeDescKey !== 'goal') continue
-      if (play.details?.scoringPlayerId !== OVI_PLAYER_ID) continue
+        // Skip shootout goals
+        if (play.periodDescriptor?.periodType === 'SO') continue
 
-      // Skip shootout goals
-      if (play.periodDescriptor?.periodType === 'SO') continue
+        goals.push({
+          gameId,
+          gameDate: data.gameDate,
+          period: play.periodDescriptor?.number,
+          time: play.timeInPeriod,
+          xCoord: play.details?.xCoord,
+          yCoord: play.details?.yCoord,
+          shotType: play.details?.shotType,
+          goalieId: play.details?.goalieInNetId,
+          assist1Id: play.details?.assist1PlayerId,
+          assist2Id: play.details?.assist2PlayerId,
+          homeTeam: data.homeTeam?.abbrev,
+          awayTeam: data.awayTeam?.abbrev,
+          isHome: data.homeTeam?.abbrev === 'WSH',
+        })
+      }
 
-      goals.push({
-        gameId,
-        gameDate: data.gameDate,
-        period: play.periodDescriptor?.number,
-        time: play.timeInPeriod,
-        xCoord: play.details?.xCoord,
-        yCoord: play.details?.yCoord,
-        shotType: play.details?.shotType,
-        goalieId: play.details?.goalieInNetId,
-        assist1Id: play.details?.assist1PlayerId,
-        assist2Id: play.details?.assist2PlayerId,
-        homeTeam: data.homeTeam?.abbrev,
-        awayTeam: data.awayTeam?.abbrev,
-        isHome: data.homeTeam?.abbrev === 'WSH',
-      })
+      return goals
+    } else if (res.status === 429 && retryCount < MAX_RETRIES) {
+      const waitTime = (retryCount + 1) * 3000
+      console.log(`    Rate limited on game ${gameId}, waiting ${waitTime}ms...`)
+      await delay(waitTime)
+      return fetchGameGoals(gameId, retryCount + 1)
+    } else if (res.status >= 500 && retryCount < MAX_RETRIES) {
+      await delay(2000)
+      return fetchGameGoals(gameId, retryCount + 1)
+    } else {
+      console.log(`    Failed to fetch game ${gameId}: HTTP ${res.status}`)
+      return []
     }
-
-    return goals
   } catch (e) {
-    console.log(`  Error fetching game ${gameId}: ${e.message}`)
+    if (retryCount < MAX_RETRIES) {
+      await delay(2000)
+      return fetchGameGoals(gameId, retryCount + 1)
+    }
+    console.log(`    Error fetching game ${gameId}: ${e.message}`)
     return []
   }
 }
 
-async function fetchSeasonGames(seasonId, gameType = 2) {
+async function fetchSeasonGames(seasonId, gameType = 2, retryCount = 0) {
   // gameType: 2 = regular season, 3 = playoffs
+  const typeLabel = gameType === 2 ? 'regular' : 'playoffs'
   try {
     const res = await fetch(
       `https://api-web.nhle.com/v1/player/${OVI_PLAYER_ID}/game-log/${seasonId}/${gameType}`
     )
-    if (!res.ok) return []
-
-    const data = await res.json()
-    return (data.gameLog || []).map(g => ({
-      gameId: g.gameId,
-      date: g.gameDate,
-      goals: g.goals,
-      opponent: g.opponentAbbrev,
-    })).filter(g => g.goals > 0) // Only games with goals
+    if (res.ok) {
+      const data = await res.json()
+      return (data.gameLog || []).map(g => ({
+        gameId: g.gameId,
+        date: g.gameDate,
+        goals: g.goals,
+        opponent: g.opponentAbbrev,
+      })).filter(g => g.goals > 0) // Only games with goals
+    } else if (res.status === 429 && retryCount < MAX_RETRIES) {
+      // Rate limited - wait and retry
+      const waitTime = (retryCount + 1) * 3000
+      console.log(`  Rate limited on ${typeLabel} gamelog, waiting ${waitTime}ms...`)
+      await delay(waitTime)
+      return fetchSeasonGames(seasonId, gameType, retryCount + 1)
+    } else if (res.status >= 500 && retryCount < MAX_RETRIES) {
+      // Server error - retry
+      console.log(`  Server error ${res.status} on ${typeLabel} gamelog, retrying...`)
+      await delay(2000)
+      return fetchSeasonGames(seasonId, gameType, retryCount + 1)
+    } else {
+      console.log(`  WARNING: Failed to fetch ${typeLabel} gamelog: HTTP ${res.status}`)
+      return []
+    }
   } catch (e) {
+    if (retryCount < MAX_RETRIES) {
+      console.log(`  Network error on ${typeLabel} gamelog, retrying...`)
+      await delay(2000)
+      return fetchSeasonGames(seasonId, gameType, retryCount + 1)
+    }
+    console.log(`  WARNING: Failed to fetch ${typeLabel} gamelog: ${e.message}`)
     return []
   }
 }

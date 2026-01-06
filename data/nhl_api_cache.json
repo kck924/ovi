@@ -15952,5 +15952,35 @@
       "awayTeam": "MIN",
       "isHome": true
     }
+  ],
+  "game_2025020663": [
+    {
+      "gameId": 2025020663,
+      "gameDate": "2026-01-05",
+      "period": 2,
+      "time": "08:52",
+      "xCoord": 65,
+      "yCoord": 24,
+      "shotType": "snap",
+      "goalieId": 8475852,
+      "assist1Id": 8480796,
+      "assist2Id": 8474590,
+      "homeTeam": "WSH",
+      "awayTeam": "ANA",
+      "isHome": true
+    },
+    {
+      "gameId": 2025020663,
+      "gameDate": "2026-01-05",
+      "period": 3,
+      "time": "19:18",
+      "xCoord": 40,
+      "yCoord": 39,
+      "shotType": "snap",
+      "assist1Id": 8482088,
+      "homeTeam": "WSH",
+      "awayTeam": "ANA",
+      "isHome": true
+    }
   ]
 }
