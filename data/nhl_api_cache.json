@@ -15982,5 +15982,22 @@
       "awayTeam": "ANA",
       "isHome": true
     }
+  ],
+  "game_2025020677": [
+    {
+      "gameId": 2025020677,
+      "gameDate": "2026-01-07",
+      "period": 3,
+      "time": "17:41",
+      "xCoord": -49,
+      "yCoord": -13,
+      "shotType": "snap",
+      "goalieId": 8479193,
+      "assist1Id": 8474590,
+      "assist2Id": 8479345,
+      "homeTeam": "WSH",
+      "awayTeam": "DAL",
+      "isHome": true
+    }
   ]
 }

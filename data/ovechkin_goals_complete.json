@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-01-07T07:12:10.551Z",
+    "fetchedAt": "2026-01-08T07:11:34.128Z",
     "source": "NHL API",
-    "regularSeasonGoals": 914,
+    "regularSeasonGoals": 915,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 2
+      "2026": 3
     },
     "byOpponent": {
       "CBJ": 28,
@@ -48,7 +48,7 @@
       "BOS": 30,
       "PHI": 52,
       "CHI": 17,
-      "DAL": 12,
+      "DAL": 13,
       "ANA": 14,
       "PHX": 3,
       "STL": 22,
@@ -199,7 +199,7 @@
       "Connor Hellebuyck": 7,
       "Alexandar Georgiev": 10,
       "Juuse Saros": 4,
-      "Casey DeSmith": 5,
+      "Casey DeSmith": 6,
       "Philipp Grubauer": 3,
       "Jake Allen": 7,
       "Jack Campbell": 2,
@@ -306,7 +306,7 @@
       "Brendan Morrison": 4,
       "Keith Aucoin": 2,
       "Karl Alzner": 20,
-      "John Carlson": 160,
+      "John Carlson": 161,
       "Jason Chimera": 11,
       "Marcus Johansson": 58,
       "Jason Arnott": 1,
@@ -377,7 +377,7 @@
       "Dylan McIlrath": 1,
       "Matt Roy": 6,
       "Pierre-Luc Dubois": 4,
-      "Jakob Chychrun": 8,
+      "Jakob Chychrun": 9,
       "Andrew Mangiapane": 2,
       "Ethen Frank": 1,
       "Anthony Beauvillier": 3,
@@ -389,7 +389,7 @@
       "wrist": 396,
       "backhand": 54,
       "tip-in": 42,
-      "snap": 201,
+      "snap": 202,
       "deflected": 8
     },
     "topAssisters": [
@@ -399,7 +399,7 @@
       ],
       [
         "John Carlson",
-        160
+        161
       ],
       [
         "Evgeny Kuznetsov",
@@ -20355,6 +20355,28 @@
       "secondaryAssist": null,
       "careerGoalNum": 914,
       "opponent": "ANA",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025020677,
+      "gameDate": "2026-01-07",
+      "period": 3,
+      "time": "17:41",
+      "xCoord": -49,
+      "yCoord": -13,
+      "shotType": "snap",
+      "goalieId": 8479193,
+      "assist1Id": 8474590,
+      "assist2Id": 8479345,
+      "homeTeam": "WSH",
+      "awayTeam": "DAL",
+      "isHome": true,
+      "isPlayoffs": false,
+      "goalieName": "Casey DeSmith",
+      "primaryAssist": "John Carlson",
+      "secondaryAssist": "Jakob Chychrun",
+      "careerGoalNum": 915,
+      "opponent": "DAL",
       "goalType": "EV"
     },
     {
