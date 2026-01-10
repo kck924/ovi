@@ -1,8 +1,11 @@
 /**
- * NHL API Fetcher for Ovechkin Goals
- * Gets complete goal data including assists, goalies, and coordinates
+ * NHL API Fetcher for Ovechkin Goals (Incremental Mode)
  *
- * Usage: node scripts/fetch-nhl-api.js
+ * Only fetches new goals since the last update, preserving existing data.
+ * This prevents data loss from API errors/timeouts.
+ *
+ * Usage: node scripts/fetch-nhl-api.js [--full]
+ *   --full: Force a full refresh (re-fetch all seasons)
  */
 
 import { writeFileSync, existsSync, readFileSync } from 'fs'
@@ -19,17 +22,15 @@ const DELAY_MS = 500 // Delay between game fetches
 const PLAYER_LOOKUP_DELAY_MS = 200 // Delay between player lookups
 const MAX_RETRIES = 3
 
+// Check for --full flag
+const FULL_REFRESH = process.argv.includes('--full')
+
 // Dynamically determine current season (NHL season spans two calendar years)
 // If we're in Jan-Aug, current season started last year; if Sep-Dec, it started this year
 const now = new Date()
 const currentYear = now.getFullYear()
 const currentMonth = now.getMonth() + 1 // 1-12
 const currentSeasonEndYear = currentMonth >= 9 ? currentYear + 1 : currentYear
-
-const SEASONS = []
-for (let year = 2006; year <= currentSeasonEndYear; year++) {
-  SEASONS.push(year)
-}
 
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms))
@@ -185,8 +186,44 @@ async function fetchSeasonGames(seasonId, gameType = 2, retryCount = 0) {
   }
 }
 
+// Load existing data and find the last goal date
+function loadExistingData() {
+  if (!existsSync(OUTPUT_FILE)) {
+    return { goals: [], lastGoalDate: null }
+  }
+
+  try {
+    const data = JSON.parse(readFileSync(OUTPUT_FILE, 'utf8'))
+    const goals = data.goals || []
+
+    if (goals.length === 0) {
+      return { goals: [], lastGoalDate: null }
+    }
+
+    // Find the most recent goal date
+    const sortedByDate = [...goals].sort((a, b) =>
+      new Date(b.gameDate) - new Date(a.gameDate)
+    )
+    const lastGoalDate = sortedByDate[0]?.gameDate
+
+    console.log(`Loaded ${goals.length} existing goals`)
+    console.log(`Last goal date: ${lastGoalDate}`)
+
+    return { goals, lastGoalDate }
+  } catch (e) {
+    console.log(`Could not load existing data: ${e.message}`)
+    return { goals: [], lastGoalDate: null }
+  }
+}
+
+// Create a unique key for deduplication
+function goalKey(goal) {
+  return `${goal.gameId}_${goal.period}_${goal.time}`
+}
+
 async function main() {
-  console.log('=== NHL API Ovechkin Goals Fetcher ===\n')
+  console.log('=== NHL API Ovechkin Goals Fetcher ===')
+  console.log(`Mode: ${FULL_REFRESH ? 'FULL REFRESH' : 'INCREMENTAL'}\n`)
 
   // Load caches
   loadPlayerCache()
@@ -195,54 +232,126 @@ async function main() {
   if (existsSync(CACHE_FILE)) {
     try {
       cache = JSON.parse(readFileSync(CACHE_FILE, 'utf8'))
-      console.log(`Loaded game cache with ${Object.keys(cache).length} games\n`)
+      console.log(`Loaded game cache with ${Object.keys(cache).length} games`)
     } catch (e) {
-      console.log('Starting fresh\n')
+      console.log('Starting with empty game cache')
     }
   }
 
-  const allGoals = []
+  // Load existing data for incremental mode
+  const { goals: existingGoals, lastGoalDate } = FULL_REFRESH
+    ? { goals: [], lastGoalDate: null }
+    : loadExistingData()
 
-  for (const year of SEASONS) {
+  // Build set of existing goal keys for deduplication
+  const existingGoalKeys = new Set(existingGoals.map(goalKey))
+
+  // Determine which seasons to fetch
+  let seasonsToFetch = []
+  if (FULL_REFRESH || !lastGoalDate) {
+    // Full refresh: fetch all seasons
+    for (let year = 2006; year <= currentSeasonEndYear; year++) {
+      seasonsToFetch.push(year)
+    }
+    console.log(`\nFetching all ${seasonsToFetch.length} seasons...`)
+  } else {
+    // Incremental: only fetch current season (and maybe previous if near season boundary)
+    const lastGoalYear = new Date(lastGoalDate).getFullYear()
+    const lastGoalMonth = new Date(lastGoalDate).getMonth() + 1
+
+    // Determine the season of the last goal
+    const lastGoalSeasonEndYear = lastGoalMonth >= 9 ? lastGoalYear + 1 : lastGoalYear
+
+    // Fetch from that season onwards
+    for (let year = lastGoalSeasonEndYear; year <= currentSeasonEndYear; year++) {
+      seasonsToFetch.push(year)
+    }
+    console.log(`\nIncremental update: checking ${seasonsToFetch.length} season(s) for games after ${lastGoalDate}`)
+  }
+
+  const newGoals = []
+
+  for (const year of seasonsToFetch) {
     const seasonId = parseInt(`${year - 1}${year}`)
     console.log(`\nSeason ${year - 1}-${String(year).slice(2)}:`)
 
     // Regular season
     const regGames = await fetchSeasonGames(seasonId, 2)
-    console.log(`  Regular season: ${regGames.length} games with goals`)
 
-    for (const game of regGames) {
+    // Filter to only games after lastGoalDate (for incremental mode)
+    const regGamesToFetch = lastGoalDate && !FULL_REFRESH
+      ? regGames.filter(g => g.date >= lastGoalDate)
+      : regGames
+
+    console.log(`  Regular season: ${regGamesToFetch.length} games to check (${regGames.length} total with goals)`)
+
+    for (const game of regGamesToFetch) {
       const cacheKey = `game_${game.gameId}`
 
-      if (cache[cacheKey]) {
-        allGoals.push(...cache[cacheKey].map(g => ({ ...g, isPlayoffs: false })))
-      } else {
+      // For incremental mode on the boundary date, we need to re-fetch to catch same-day goals
+      const needsFetch = !cache[cacheKey] || (lastGoalDate && game.date === lastGoalDate)
+
+      if (needsFetch) {
         const goals = await fetchGameGoals(game.gameId)
         if (goals.length > 0) {
           cache[cacheKey] = goals
-          allGoals.push(...goals.map(g => ({ ...g, isPlayoffs: false })))
+          // Add only goals we don't already have
+          for (const g of goals) {
+            const key = goalKey(g)
+            if (!existingGoalKeys.has(key)) {
+              newGoals.push({ ...g, isPlayoffs: false })
+              existingGoalKeys.add(key) // Prevent duplicates within new goals
+            }
+          }
         }
         await delay(DELAY_MS)
+      } else if (cache[cacheKey]) {
+        // Use cached data, but still check for duplicates
+        for (const g of cache[cacheKey]) {
+          const key = goalKey(g)
+          if (!existingGoalKeys.has(key)) {
+            newGoals.push({ ...g, isPlayoffs: false })
+            existingGoalKeys.add(key)
+          }
+        }
       }
     }
 
     // Playoffs
     const playoffGames = await fetchSeasonGames(seasonId, 3)
-    if (playoffGames.length > 0) {
-      console.log(`  Playoffs: ${playoffGames.length} games with goals`)
+    const playoffGamesToFetch = lastGoalDate && !FULL_REFRESH
+      ? playoffGames.filter(g => g.date >= lastGoalDate)
+      : playoffGames
 
-      for (const game of playoffGames) {
+    if (playoffGamesToFetch.length > 0) {
+      console.log(`  Playoffs: ${playoffGamesToFetch.length} games to check`)
+
+      for (const game of playoffGamesToFetch) {
         const cacheKey = `game_${game.gameId}`
 
-        if (cache[cacheKey]) {
-          allGoals.push(...cache[cacheKey].map(g => ({ ...g, isPlayoffs: true })))
-        } else {
+        const needsFetch = !cache[cacheKey] || (lastGoalDate && game.date === lastGoalDate)
+
+        if (needsFetch) {
           const goals = await fetchGameGoals(game.gameId)
           if (goals.length > 0) {
             cache[cacheKey] = goals
-            allGoals.push(...goals.map(g => ({ ...g, isPlayoffs: true })))
+            for (const g of goals) {
+              const key = goalKey(g)
+              if (!existingGoalKeys.has(key)) {
+                newGoals.push({ ...g, isPlayoffs: true })
+                existingGoalKeys.add(key)
+              }
+            }
           }
           await delay(DELAY_MS)
+        } else if (cache[cacheKey]) {
+          for (const g of cache[cacheKey]) {
+            const key = goalKey(g)
+            if (!existingGoalKeys.has(key)) {
+              newGoals.push({ ...g, isPlayoffs: true })
+              existingGoalKeys.add(key)
+            }
+          }
         }
       }
     }
@@ -251,44 +360,39 @@ async function main() {
     writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2))
   }
 
-  console.log('\n\nResolving player names...')
+  console.log(`\nFound ${newGoals.length} new goals`)
 
-  // Get unique player IDs for name lookup
-  const playerIds = new Set()
-  allGoals.forEach(g => {
-    if (g.goalieId) playerIds.add(g.goalieId)
-    if (g.assist1Id) playerIds.add(g.assist1Id)
-    if (g.assist2Id) playerIds.add(g.assist2Id)
-  })
+  // Combine existing and new goals
+  const allGoals = [...existingGoals, ...newGoals]
 
-  // Count how many need lookup
-  const uncachedIds = [...playerIds].filter(id => !playerCache[id])
-  console.log(`  ${playerIds.size} unique players, ${uncachedIds.length} need lookup (${playerIds.size - uncachedIds.length} cached)`)
+  // Resolve player names for new goals
+  if (newGoals.length > 0) {
+    console.log('\nResolving player names for new goals...')
 
-  let lookupCount = 0
-  let failedCount = 0
-  for (const id of uncachedIds) {
-    const name = await getPlayerName(id)
-    lookupCount++
-    if (!name) failedCount++
-    if (lookupCount % 25 === 0) {
-      console.log(`  Progress: ${lookupCount}/${uncachedIds.length} (${failedCount} failed)...`)
-      // Save cache periodically during lookup
-      savePlayerCache()
+    const playerIds = new Set()
+    newGoals.forEach(g => {
+      if (g.goalieId) playerIds.add(g.goalieId)
+      if (g.assist1Id) playerIds.add(g.assist1Id)
+      if (g.assist2Id) playerIds.add(g.assist2Id)
+    })
+
+    const uncachedIds = [...playerIds].filter(id => !playerCache[id])
+    console.log(`  ${playerIds.size} players, ${uncachedIds.length} need lookup`)
+
+    for (const id of uncachedIds) {
+      await getPlayerName(id)
+      await delay(PLAYER_LOOKUP_DELAY_MS)
     }
-    await delay(PLAYER_LOOKUP_DELAY_MS)
+
+    savePlayerCache()
   }
 
-  // Save player cache
-  savePlayerCache()
-  console.log(`  Completed: ${lookupCount} lookups, ${failedCount} failed, ${Object.keys(playerCache).length} total cached`)
-
-  // Enrich goals with player names
+  // Enrich all goals with player names (in case cache was updated)
   const enrichedGoals = allGoals.map(g => ({
     ...g,
-    goalieName: playerCache[g.goalieId] || null,
-    primaryAssist: playerCache[g.assist1Id] || null,
-    secondaryAssist: playerCache[g.assist2Id] || null,
+    goalieName: playerCache[g.goalieId] || g.goalieName || null,
+    primaryAssist: playerCache[g.assist1Id] || g.primaryAssist || null,
+    secondaryAssist: playerCache[g.assist2Id] || g.secondaryAssist || null,
   }))
 
   // Sort and number
@@ -300,17 +404,17 @@ async function main() {
     .sort((a, b) => new Date(a.gameDate) - new Date(b.gameDate))
   playoffGoals.forEach((g, i) => { g.playoffGoalNum = i + 1 })
 
-  // Compute goal type from situation (simplified - would need more context)
+  // Set opponent based on home/away
   regularGoals.forEach(g => {
     g.opponent = g.isHome ? g.awayTeam : g.homeTeam
-    g.goalType = 'EV' // Default - would need situationCode for PP/SH
+    g.goalType = g.goalType || 'EV'
   })
   playoffGoals.forEach(g => {
     g.opponent = g.isHome ? g.awayTeam : g.homeTeam
-    g.goalType = 'EV'
+    g.goalType = g.goalType || 'EV'
   })
 
-  // Build stats
+  // Rebuild stats from all goals
   const stats = {
     bySeason: {},
     byOpponent: {},
@@ -351,6 +455,9 @@ async function main() {
   console.log('\n=== Complete ===')
   console.log(`Regular season: ${regularGoals.length} goals`)
   console.log(`Playoffs: ${playoffGoals.length} goals`)
+  if (newGoals.length > 0) {
+    console.log(`New goals added: ${newGoals.length}`)
+  }
   console.log(`\nTop 5 Assisters:`)
   stats.topAssisters.slice(0, 5).forEach(([name, count]) => console.log(`  ${name}: ${count}`))
   console.log(`\nTop 5 Goalies Scored On:`)
