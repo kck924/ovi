@@ -15999,5 +15999,21 @@
       "awayTeam": "DAL",
       "isHome": true
     }
+  ],
+  "game_2025020694": [
+    {
+      "gameId": 2025020694,
+      "gameDate": "2026-01-09",
+      "period": 3,
+      "time": "13:33",
+      "xCoord": 67,
+      "yCoord": 13,
+      "shotType": "snap",
+      "goalieId": 8482123,
+      "assist1Id": 8480796,
+      "homeTeam": "CHI",
+      "awayTeam": "WSH",
+      "isHome": false
+    }
   ]
 }

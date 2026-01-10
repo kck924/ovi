@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-01-08T07:11:34.128Z",
+    "fetchedAt": "2026-01-10T16:37:24.354Z",
     "source": "NHL API",
-    "regularSeasonGoals": 915,
+    "regularSeasonGoals": 916,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 3
+      "2026": 4
     },
     "byOpponent": {
       "CBJ": 28,
@@ -47,7 +47,7 @@
       "MTL": 42,
       "BOS": 30,
       "PHI": 52,
-      "CHI": 17,
+      "CHI": 18,
       "DAL": 13,
       "ANA": 14,
       "PHX": 3,
@@ -254,7 +254,8 @@
       "Ilya Sorokin": 1,
       "Jet Greaves": 2,
       "Jakub Dobes": 1,
-      "Eric Comrie": 1
+      "Eric Comrie": 1,
+      "Drew Commesso": 1
     },
     "byAnyAssist": {
       "Dainius Zubrus": 26,
@@ -368,7 +369,7 @@
       "Vincent Iorio": 1,
       "Rasmus Sandin": 9,
       "Beck Malenstyn": 2,
-      "Martin Fehérváry": 7,
+      "Martin Fehérváry": 8,
       "Connor McMichael": 7,
       "Hendrix Lapierre": 2,
       "Alexander Alexeyev": 1,
@@ -389,7 +390,7 @@
       "wrist": 396,
       "backhand": 54,
       "tip-in": 42,
-      "snap": 202,
+      "snap": 203,
       "deflected": 8
     },
     "topAssisters": [
@@ -20377,6 +20378,27 @@
       "secondaryAssist": "Jakob Chychrun",
       "careerGoalNum": 915,
       "opponent": "DAL",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025020694,
+      "gameDate": "2026-01-09",
+      "period": 3,
+      "time": "13:33",
+      "xCoord": 67,
+      "yCoord": 13,
+      "shotType": "snap",
+      "goalieId": 8482123,
+      "assist1Id": 8480796,
+      "homeTeam": "CHI",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": "Drew Commesso",
+      "primaryAssist": "Martin Fehérváry",
+      "secondaryAssist": null,
+      "careerGoalNum": 916,
+      "opponent": "CHI",
       "goalType": "EV"
     },
     {
