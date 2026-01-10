@@ -18,7 +18,7 @@ import CumulativeChart from './CumulativeChart'
 import UniquesChart from './UniquesChart'
 import PlayerHeadshot from './PlayerHeadshot'
 
-const MILESTONES = [33, 100, 200, 300, 400, 500, 600, 700, 767, 800, 802, 894, 895, 900]
+const MILESTONES = [32, 100, 200, 300, 400, 500, 600, 700, 767, 800, 802, 894, 895, 900]
 const VIDEO_BASE = 'https://dbkseqndwgeyacafisjv.supabase.co/storage/v1/object/public/ovivideos'
 
 export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
@@ -178,15 +178,15 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
 
     // Check for milestone pause
     if (MILESTONES.includes(goalIndex + 1)) {
-      // Goal 33 only pauses for video - skip entirely if skip videos is enabled
-      if (goalIndex + 1 === 33 && skipAllVideos) {
+      // Goal 32 only pauses for video - skip entirely if skip videos is enabled
+      if (goalIndex + 1 === 32 && skipAllVideos) {
         return
       }
 
       setIsPaused(true)
       // Goals with videos - let video control resume (unless skip all videos is enabled)
       // Other milestones auto-resume after 1.5s
-      const videoMilestones = [33, 100, 200, 300, 400, 500, 600, 700, 767, 800, 802, 895, 900]
+      const videoMilestones = [32, 100, 200, 300, 400, 500, 600, 700, 767, 800, 802, 895, 900]
       if (skipAllVideos || !videoMilestones.includes(goalIndex + 1)) {
         setTimeout(() => setIsPaused(false), 1500)
       }
@@ -492,7 +492,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
 
         {/* Milestone overlay */}
         <AnimatePresence>
-          {isPaused && MILESTONES.includes(currentIndex) && ![33, 500].includes(currentIndex) && (
+          {isPaused && MILESTONES.includes(currentIndex) && ![32, 500].includes(currentIndex) && (
             <motion.div
               className="milestone-overlay"
               initial={{ opacity: 0, scale: 0.8 }}
@@ -514,9 +514,9 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
           )}
         </AnimatePresence>
 
-        {/* Goal 33 - "The Goal" - diving goal vs Phoenix */}
+        {/* Goal 32 - "The Goal" - diving goal vs Phoenix */}
         <AnimatePresence>
-          {isPaused && currentIndex === 33 && !skipAllVideos && (
+          {isPaused && currentIndex === 32 && !skipAllVideos && (
             <motion.div
               className="video-overlay"
               initial={{ opacity: 0 }}
@@ -546,7 +546,7 @@ export default function AnimatedViz({ goals = [], stats = {}, gamelog = [] }) {
               </div>
               <div className="video-milestone-text">
                 <div className="milestone-label" style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>THE GOAL</div>
-                <div className="milestone-number">33</div>
+                <div className="milestone-number">32</div>
               </div>
               <div className="video-controls">
                 <div
