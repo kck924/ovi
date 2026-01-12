@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-01-11T07:09:15.338Z",
+    "fetchedAt": "2026-01-12T07:14:10.734Z",
     "source": "NHL API",
-    "regularSeasonGoals": 916,
+    "regularSeasonGoals": 917,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 4
+      "2026": 5
     },
     "byOpponent": {
       "CBJ": 28,
@@ -41,7 +41,7 @@
       "TOR": 45,
       "NJD": 44,
       "BUF": 42,
-      "NSH": 19,
+      "NSH": 20,
       "DET": 25,
       "ATL": 30,
       "MTL": 42,
@@ -255,7 +255,8 @@
       "Jet Greaves": 2,
       "Jakub Dobes": 1,
       "Eric Comrie": 1,
-      "Drew Commesso": 1
+      "Drew Commesso": 1,
+      "Justus Annunen": 1
     },
     "byAnyAssist": {
       "Dainius Zubrus": 26,
@@ -307,7 +308,7 @@
       "Brendan Morrison": 4,
       "Keith Aucoin": 2,
       "Karl Alzner": 20,
-      "John Carlson": 161,
+      "John Carlson": 162,
       "Jason Chimera": 11,
       "Marcus Johansson": 58,
       "Jason Arnott": 1,
@@ -382,11 +383,11 @@
       "Andrew Mangiapane": 2,
       "Ethen Frank": 1,
       "Anthony Beauvillier": 3,
-      "Ryan Leonard": 1,
+      "Ryan Leonard": 2,
       "Justin Sourdif": 1
     },
     "byShotType": {
-      "slap": 213,
+      "slap": 214,
       "wrist": 396,
       "backhand": 54,
       "tip-in": 42,
@@ -400,7 +401,7 @@
       ],
       [
         "John Carlson",
-        161
+        162
       ],
       [
         "Evgeny Kuznetsov",
@@ -20399,6 +20400,28 @@
       "secondaryAssist": null,
       "careerGoalNum": 916,
       "opponent": "CHI",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025020713,
+      "gameDate": "2026-01-11",
+      "period": 1,
+      "time": "05:56",
+      "xCoord": -57,
+      "yCoord": -21,
+      "shotType": "slap",
+      "goalieId": 8481020,
+      "assist1Id": 8474590,
+      "assist2Id": 8484186,
+      "homeTeam": "NSH",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": "Justus Annunen",
+      "primaryAssist": "John Carlson",
+      "secondaryAssist": "Ryan Leonard",
+      "careerGoalNum": 917,
+      "opponent": "NSH",
       "goalType": "EV"
     },
     {

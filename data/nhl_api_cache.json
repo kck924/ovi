@@ -16015,5 +16015,22 @@
       "awayTeam": "WSH",
       "isHome": false
     }
+  ],
+  "game_2025020713": [
+    {
+      "gameId": 2025020713,
+      "gameDate": "2026-01-11",
+      "period": 1,
+      "time": "05:56",
+      "xCoord": -57,
+      "yCoord": -21,
+      "shotType": "slap",
+      "goalieId": 8481020,
+      "assist1Id": 8474590,
+      "assist2Id": 8484186,
+      "homeTeam": "NSH",
+      "awayTeam": "WSH",
+      "isHome": false
+    }
   ]
 }
