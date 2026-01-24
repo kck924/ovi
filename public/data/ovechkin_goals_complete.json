@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-01-23T07:12:18.974Z",
+    "fetchedAt": "2026-01-24T07:08:45.469Z",
     "source": "NHL API",
-    "regularSeasonGoals": 917,
+    "regularSeasonGoals": 918,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 5
+      "2026": 6
     },
     "byOpponent": {
       "CBJ": 28,
@@ -58,7 +58,7 @@
       "COL": 12,
       "VAN": 16,
       "EDM": 18,
-      "CGY": 18,
+      "CGY": 19,
       "MIN": 21,
       "LAK": 13,
       "SJS": 19,
@@ -363,14 +363,14 @@
       "Trevor van Riemsdyk": 11,
       "Aliaksei Protas": 15,
       "Garnet Hathaway": 3,
-      "Dylan Strome": 54,
+      "Dylan Strome": 55,
       "Erik Gustafsson": 6,
       "Sonny Milano": 3,
       "Gabriel Carlsson": 1,
       "Vincent Iorio": 1,
       "Rasmus Sandin": 9,
       "Beck Malenstyn": 2,
-      "Martin Fehérváry": 8,
+      "Martin Fehérváry": 9,
       "Connor McMichael": 7,
       "Hendrix Lapierre": 2,
       "Alexander Alexeyev": 1,
@@ -388,7 +388,7 @@
     },
     "byShotType": {
       "slap": 214,
-      "wrist": 396,
+      "wrist": 397,
       "backhand": 54,
       "tip-in": 42,
       "snap": 203,
@@ -417,7 +417,7 @@
       ],
       [
         "Dylan Strome",
-        54
+        55
       ],
       [
         "Tom Wilson",
@@ -20422,6 +20422,27 @@
       "secondaryAssist": "Ryan Leonard",
       "careerGoalNum": 917,
       "opponent": "NSH",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025020806,
+      "gameDate": "2026-01-23",
+      "period": 3,
+      "time": "19:07",
+      "xCoord": -14,
+      "yCoord": -33,
+      "shotType": "wrist",
+      "assist1Id": 8478440,
+      "assist2Id": 8480796,
+      "homeTeam": "CGY",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": null,
+      "primaryAssist": "Dylan Strome",
+      "secondaryAssist": "Martin Fehérváry",
+      "careerGoalNum": 918,
+      "opponent": "CGY",
       "goalType": "EV"
     },
     {

@@ -16032,5 +16032,21 @@
       "awayTeam": "WSH",
       "isHome": false
     }
+  ],
+  "game_2025020806": [
+    {
+      "gameId": 2025020806,
+      "gameDate": "2026-01-23",
+      "period": 3,
+      "time": "19:07",
+      "xCoord": -14,
+      "yCoord": -33,
+      "shotType": "wrist",
+      "assist1Id": 8478440,
+      "assist2Id": 8480796,
+      "homeTeam": "CGY",
+      "awayTeam": "WSH",
+      "isHome": false
+    }
   ]
 }
