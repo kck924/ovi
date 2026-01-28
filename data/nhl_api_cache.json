@@ -16048,5 +16048,22 @@
       "awayTeam": "WSH",
       "isHome": false
     }
+  ],
+  "game_2025020839": [
+    {
+      "gameId": 2025020839,
+      "gameDate": "2026-01-27",
+      "period": 3,
+      "time": "02:30",
+      "xCoord": -83,
+      "yCoord": -10,
+      "shotType": "snap",
+      "goalieId": 8475831,
+      "assist1Id": 8484186,
+      "assist2Id": 8479345,
+      "homeTeam": "SEA",
+      "awayTeam": "WSH",
+      "isHome": false
+    }
   ]
 }
