@@ -1,8 +1,8 @@
 {
   "player": "Alex Ovechkin",
   "playerId": 8471214,
-  "totalGames": 1552,
-  "totalGoals": 919,
+  "totalGames": 1553,
+  "totalGoals": 921,
   "games": [
     {
       "gameId": 2005020004,
@@ -17075,6 +17075,17 @@
       "points": 0,
       "cumulativeGoals": 919,
       "gameNumber": 1552
+    },
+    {
+      "gameId": 2025020940,
+      "date": "2026-02-28",
+      "season": "20252026",
+      "opponent": "MTL",
+      "goals": 2,
+      "assists": 0,
+      "points": 2,
+      "cumulativeGoals": 921,
+      "gameNumber": 1553
     }
   ]
 }

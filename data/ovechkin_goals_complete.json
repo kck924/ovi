@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-02-28T07:13:00.357Z",
+    "fetchedAt": "2026-03-01T07:18:57.361Z",
     "source": "NHL API",
-    "regularSeasonGoals": 919,
+    "regularSeasonGoals": 921,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 7
+      "2026": 9
     },
     "byOpponent": {
       "CBJ": 28,
@@ -44,7 +44,7 @@
       "NSH": 20,
       "DET": 25,
       "ATL": 30,
-      "MTL": 42,
+      "MTL": 44,
       "BOS": 30,
       "PHI": 52,
       "CHI": 18,
@@ -253,7 +253,7 @@
       "Georgii Romanov": 1,
       "Ilya Sorokin": 1,
       "Jet Greaves": 2,
-      "Jakub Dobes": 1,
+      "Jakub Dobes": 3,
       "Eric Comrie": 1,
       "Drew Commesso": 1,
       "Justus Annunen": 1
@@ -363,7 +363,7 @@
       "Trevor van Riemsdyk": 11,
       "Aliaksei Protas": 15,
       "Garnet Hathaway": 3,
-      "Dylan Strome": 55,
+      "Dylan Strome": 56,
       "Erik Gustafsson": 6,
       "Sonny Milano": 3,
       "Gabriel Carlsson": 1,
@@ -382,16 +382,17 @@
       "Jakob Chychrun": 10,
       "Andrew Mangiapane": 2,
       "Ethen Frank": 1,
-      "Anthony Beauvillier": 3,
+      "Anthony Beauvillier": 5,
       "Ryan Leonard": 3,
-      "Justin Sourdif": 1
+      "Justin Sourdif": 1,
+      "Declan Chisholm": 1
     },
     "byShotType": {
       "slap": 214,
       "wrist": 397,
       "backhand": 54,
       "tip-in": 42,
-      "snap": 204,
+      "snap": 206,
       "deflected": 8
     },
     "topAssisters": [
@@ -417,7 +418,7 @@
       ],
       [
         "Dylan Strome",
-        55
+        56
       ],
       [
         "Tom Wilson",
@@ -592,12 +593,12 @@
         44
       ],
       [
-        "PIT",
-        43
+        "MTL",
+        44
       ],
       [
-        "BUF",
-        42
+        "PIT",
+        43
       ]
     ]
   },
@@ -20465,6 +20466,50 @@
       "secondaryAssist": "Jakob Chychrun",
       "careerGoalNum": 919,
       "opponent": "SEA",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025020940,
+      "gameDate": "2026-02-28",
+      "period": 1,
+      "time": "13:16",
+      "xCoord": 81,
+      "yCoord": -7,
+      "shotType": "snap",
+      "goalieId": 8482487,
+      "assist1Id": 8478463,
+      "assist2Id": 8480990,
+      "homeTeam": "MTL",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": "Jakub Dobes",
+      "primaryAssist": "Anthony Beauvillier",
+      "secondaryAssist": "Declan Chisholm",
+      "careerGoalNum": 920,
+      "opponent": "MTL",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025020940,
+      "gameDate": "2026-02-28",
+      "period": 3,
+      "time": "12:12",
+      "xCoord": 80,
+      "yCoord": 0,
+      "shotType": "snap",
+      "goalieId": 8482487,
+      "assist1Id": 8478440,
+      "assist2Id": 8478463,
+      "homeTeam": "MTL",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": "Jakub Dobes",
+      "primaryAssist": "Dylan Strome",
+      "secondaryAssist": "Anthony Beauvillier",
+      "careerGoalNum": 921,
+      "opponent": "MTL",
       "goalType": "EV"
     },
     {
