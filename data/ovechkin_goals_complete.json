@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-03-18T07:28:41.636Z",
+    "fetchedAt": "2026-03-19T07:26:29.243Z",
     "source": "NHL API",
-    "regularSeasonGoals": 921,
+    "regularSeasonGoals": 922,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 9
+      "2026": 10
     },
     "byOpponent": {
       "CBJ": 28,
@@ -53,7 +53,7 @@
       "PHX": 3,
       "STL": 22,
       "PIT": 43,
-      "OTT": 38,
+      "OTT": 39,
       "NYI": 46,
       "COL": 12,
       "VAN": 16,
@@ -182,7 +182,7 @@
       "Scott Darling": 4,
       "Michael Hutchinson": 3,
       "Andrei Vasilevskiy": 12,
-      "Linus Ullmark": 2,
+      "Linus Ullmark": 3,
       "Andrew Hammond": 2,
       "Antti Raanta": 2,
       "Thomas Greiss": 7,
@@ -368,7 +368,7 @@
       "Sonny Milano": 3,
       "Gabriel Carlsson": 1,
       "Vincent Iorio": 1,
-      "Rasmus Sandin": 9,
+      "Rasmus Sandin": 10,
       "Beck Malenstyn": 2,
       "Martin Fehérváry": 9,
       "Connor McMichael": 7,
@@ -391,7 +391,7 @@
       "slap": 214,
       "wrist": 397,
       "backhand": 54,
-      "tip-in": 42,
+      "tip-in": 43,
       "snap": 206,
       "deflected": 8
     },
@@ -20510,6 +20510,27 @@
       "secondaryAssist": "Anthony Beauvillier",
       "careerGoalNum": 921,
       "opponent": "MTL",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021079,
+      "gameDate": "2026-03-18",
+      "period": 2,
+      "time": "08:09",
+      "xCoord": 73,
+      "yCoord": 3,
+      "shotType": "tip-in",
+      "goalieId": 8476999,
+      "assist1Id": 8480873,
+      "homeTeam": "WSH",
+      "awayTeam": "OTT",
+      "isHome": true,
+      "isPlayoffs": false,
+      "goalieName": "Linus Ullmark",
+      "primaryAssist": "Rasmus Sandin",
+      "secondaryAssist": null,
+      "careerGoalNum": 922,
+      "opponent": "OTT",
       "goalType": "EV"
     },
     {
