@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-03-22T07:21:24.303Z",
+    "fetchedAt": "2026-03-23T07:35:23.641Z",
     "source": "NHL API",
-    "regularSeasonGoals": 922,
+    "regularSeasonGoals": 923,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 10
+      "2026": 11
     },
     "byOpponent": {
       "CBJ": 28,
@@ -55,7 +55,7 @@
       "PIT": 43,
       "OTT": 39,
       "NYI": 46,
-      "COL": 12,
+      "COL": 13,
       "VAN": 16,
       "EDM": 18,
       "CGY": 19,
@@ -207,7 +207,7 @@
       "Pekka Rinne": 2,
       "Mikko Koskinen": 2,
       "Joonas Korpisalo": 2,
-      "Mackenzie Blackwood": 6,
+      "Mackenzie Blackwood": 7,
       "Marcus Hogberg": 2,
       "Laurent Brossoit": 1,
       "Alex Stalock": 2,
@@ -363,7 +363,7 @@
       "Trevor van Riemsdyk": 11,
       "Aliaksei Protas": 15,
       "Garnet Hathaway": 3,
-      "Dylan Strome": 56,
+      "Dylan Strome": 57,
       "Erik Gustafsson": 6,
       "Sonny Milano": 3,
       "Gabriel Carlsson": 1,
@@ -385,10 +385,11 @@
       "Anthony Beauvillier": 5,
       "Ryan Leonard": 3,
       "Justin Sourdif": 1,
-      "Declan Chisholm": 1
+      "Declan Chisholm": 1,
+      "Cole Hutson": 1
     },
     "byShotType": {
-      "slap": 214,
+      "slap": 215,
       "wrist": 397,
       "backhand": 54,
       "tip-in": 43,
@@ -418,7 +419,7 @@
       ],
       [
         "Dylan Strome",
-        56
+        57
       ],
       [
         "Tom Wilson",
@@ -20531,6 +20532,28 @@
       "secondaryAssist": null,
       "careerGoalNum": 922,
       "opponent": "OTT",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021111,
+      "gameDate": "2026-03-22",
+      "period": 3,
+      "time": "14:17",
+      "xCoord": -61,
+      "yCoord": -21,
+      "shotType": "slap",
+      "goalieId": 8478406,
+      "assist1Id": 8478440,
+      "assist2Id": 8484873,
+      "homeTeam": "WSH",
+      "awayTeam": "COL",
+      "isHome": true,
+      "isPlayoffs": false,
+      "goalieName": "Mackenzie Blackwood",
+      "primaryAssist": "Dylan Strome",
+      "secondaryAssist": "Cole Hutson",
+      "careerGoalNum": 923,
+      "opponent": "COL",
       "goalType": "EV"
     },
     {
