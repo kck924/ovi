@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-03-26T07:33:08.184Z",
+    "fetchedAt": "2026-03-27T07:32:27.513Z",
     "source": "NHL API",
-    "regularSeasonGoals": 923,
+    "regularSeasonGoals": 926,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 11
+      "2026": 14
     },
     "byOpponent": {
       "CBJ": 28,
@@ -66,7 +66,7 @@
       "ARI": 7,
       "VGK": 8,
       "SEA": 6,
-      "UTA": 2
+      "UTA": 5
     },
     "byGoalie": {
       "Pascal Leclaire": 5,
@@ -256,7 +256,8 @@
       "Jakub Dobes": 3,
       "Eric Comrie": 1,
       "Drew Commesso": 1,
-      "Justus Annunen": 1
+      "Justus Annunen": 1,
+      "Vitek Vanecek": 2
     },
     "byAnyAssist": {
       "Dainius Zubrus": 26,
@@ -360,17 +361,17 @@
       "Daniel Sprong": 2,
       "Brenden Dillon": 1,
       "Anthony Mantha": 8,
-      "Trevor van Riemsdyk": 11,
+      "Trevor van Riemsdyk": 12,
       "Aliaksei Protas": 15,
       "Garnet Hathaway": 3,
-      "Dylan Strome": 57,
+      "Dylan Strome": 59,
       "Erik Gustafsson": 6,
       "Sonny Milano": 3,
       "Gabriel Carlsson": 1,
       "Vincent Iorio": 1,
-      "Rasmus Sandin": 10,
+      "Rasmus Sandin": 11,
       "Beck Malenstyn": 2,
-      "Martin Fehérváry": 9,
+      "Martin Fehérváry": 10,
       "Connor McMichael": 7,
       "Hendrix Lapierre": 2,
       "Alexander Alexeyev": 1,
@@ -390,10 +391,10 @@
     },
     "byShotType": {
       "slap": 215,
-      "wrist": 397,
+      "wrist": 398,
       "backhand": 54,
-      "tip-in": 43,
-      "snap": 206,
+      "tip-in": 44,
+      "snap": 207,
       "deflected": 8
     },
     "topAssisters": [
@@ -414,12 +415,12 @@
         70
       ],
       [
-        "Marcus Johansson",
-        58
+        "Dylan Strome",
+        59
       ],
       [
-        "Dylan Strome",
-        57
+        "Marcus Johansson",
+        58
       ],
       [
         "Tom Wilson",
@@ -20554,6 +20555,70 @@
       "secondaryAssist": "Cole Hutson",
       "careerGoalNum": 923,
       "opponent": "COL",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021146,
+      "gameDate": "2026-03-26",
+      "period": 2,
+      "time": "05:01",
+      "xCoord": 80,
+      "yCoord": 1,
+      "shotType": "tip-in",
+      "goalieId": 8477970,
+      "assist1Id": 8480873,
+      "assist2Id": 8480796,
+      "homeTeam": "UTA",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": "Vitek Vanecek",
+      "primaryAssist": "Rasmus Sandin",
+      "secondaryAssist": "Martin Fehérváry",
+      "careerGoalNum": 924,
+      "opponent": "UTA",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021146,
+      "gameDate": "2026-03-26",
+      "period": 2,
+      "time": "11:28",
+      "xCoord": 36,
+      "yCoord": -2,
+      "shotType": "snap",
+      "goalieId": 8477970,
+      "assist1Id": 8478440,
+      "assist2Id": 8477845,
+      "homeTeam": "UTA",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": "Vitek Vanecek",
+      "primaryAssist": "Dylan Strome",
+      "secondaryAssist": "Trevor van Riemsdyk",
+      "careerGoalNum": 925,
+      "opponent": "UTA",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021146,
+      "gameDate": "2026-03-26",
+      "period": 3,
+      "time": "19:54",
+      "xCoord": -10,
+      "yCoord": 12,
+      "shotType": "wrist",
+      "assist1Id": 8478440,
+      "homeTeam": "UTA",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": null,
+      "primaryAssist": "Dylan Strome",
+      "secondaryAssist": null,
+      "careerGoalNum": 926,
+      "opponent": "UTA",
       "goalType": "EV"
     },
     {

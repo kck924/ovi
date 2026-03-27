@@ -1,8 +1,8 @@
 {
   "player": "Alex Ovechkin",
   "playerId": 8471214,
-  "totalGames": 1563,
-  "totalGoals": 923,
+  "totalGames": 1564,
+  "totalGoals": 926,
   "games": [
     {
       "gameId": 2005020004,
@@ -17196,6 +17196,17 @@
       "points": 0,
       "cumulativeGoals": 923,
       "gameNumber": 1563
+    },
+    {
+      "gameId": 2025021146,
+      "date": "2026-03-26",
+      "season": "20252026",
+      "opponent": "UTA",
+      "goals": 3,
+      "assists": 0,
+      "points": 3,
+      "cumulativeGoals": 926,
+      "gameNumber": 1564
     }
   ]
 }
