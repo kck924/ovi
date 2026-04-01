@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-03-31T07:36:56.485Z",
+    "fetchedAt": "2026-04-01T07:38:41.190Z",
     "source": "NHL API",
-    "regularSeasonGoals": 926,
+    "regularSeasonGoals": 928,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 14
+      "2026": 16
     },
     "byOpponent": {
       "CBJ": 28,
@@ -46,7 +46,7 @@
       "ATL": 30,
       "MTL": 44,
       "BOS": 30,
-      "PHI": 52,
+      "PHI": 54,
       "CHI": 18,
       "DAL": 13,
       "ANA": 14,
@@ -216,7 +216,7 @@
       "Aaron Dell": 1,
       "Jeremy Swayman": 2,
       "Alex Lyon": 4,
-      "Dan Vladar": 3,
+      "Dan Vladar": 5,
       "Filip Gustavsson": 3,
       "Spencer Knight": 4,
       "Adin Hill": 1,
@@ -372,15 +372,15 @@
       "Rasmus Sandin": 11,
       "Beck Malenstyn": 2,
       "Martin Fehérváry": 10,
-      "Connor McMichael": 7,
+      "Connor McMichael": 9,
       "Hendrix Lapierre": 2,
       "Alexander Alexeyev": 1,
       "Max Pacioretty": 1,
       "Ivan Miroshnichenko": 1,
       "Dylan McIlrath": 1,
-      "Matt Roy": 6,
+      "Matt Roy": 7,
       "Pierre-Luc Dubois": 4,
-      "Jakob Chychrun": 10,
+      "Jakob Chychrun": 11,
       "Andrew Mangiapane": 2,
       "Ethen Frank": 1,
       "Anthony Beauvillier": 5,
@@ -394,7 +394,7 @@
       "wrist": 398,
       "backhand": 54,
       "tip-in": 44,
-      "snap": 207,
+      "snap": 209,
       "deflected": 8
     },
     "topAssisters": [
@@ -563,12 +563,12 @@
     ],
     "topOpponents": [
       [
-        "CAR",
-        53
+        "PHI",
+        54
       ],
       [
-        "PHI",
-        52
+        "CAR",
+        53
       ],
       [
         "TBL",
@@ -20619,6 +20619,50 @@
       "secondaryAssist": null,
       "careerGoalNum": 926,
       "opponent": "UTA",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021184,
+      "gameDate": "2026-03-31",
+      "period": 1,
+      "time": "18:35",
+      "xCoord": -81,
+      "yCoord": 1,
+      "shotType": "snap",
+      "goalieId": 8478435,
+      "assist1Id": 8478911,
+      "assist2Id": 8481580,
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "isHome": true,
+      "isPlayoffs": false,
+      "goalieName": "Dan Vladar",
+      "primaryAssist": "Matt Roy",
+      "secondaryAssist": "Connor McMichael",
+      "careerGoalNum": 927,
+      "opponent": "PHI",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021184,
+      "gameDate": "2026-03-31",
+      "period": 3,
+      "time": "03:47",
+      "xCoord": -82,
+      "yCoord": 4,
+      "shotType": "snap",
+      "goalieId": 8478435,
+      "assist1Id": 8481580,
+      "assist2Id": 8479345,
+      "homeTeam": "WSH",
+      "awayTeam": "PHI",
+      "isHome": true,
+      "isPlayoffs": false,
+      "goalieName": "Dan Vladar",
+      "primaryAssist": "Connor McMichael",
+      "secondaryAssist": "Jakob Chychrun",
+      "careerGoalNum": 928,
+      "opponent": "PHI",
       "goalType": "EV"
     },
     {
