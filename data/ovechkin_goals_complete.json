@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-04-11T07:27:08.227Z",
+    "fetchedAt": "2026-04-12T07:36:00.390Z",
     "source": "NHL API",
-    "regularSeasonGoals": 928,
+    "regularSeasonGoals": 929,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 16
+      "2026": 17
     },
     "byOpponent": {
       "CBJ": 28,
@@ -52,7 +52,7 @@
       "ANA": 14,
       "PHX": 3,
       "STL": 22,
-      "PIT": 43,
+      "PIT": 44,
       "OTT": 39,
       "NYI": 46,
       "COL": 13,
@@ -333,7 +333,7 @@
       "Brooks Orpik": 8,
       "Jay Beagle": 2,
       "Matt Niskanen": 18,
-      "Tom Wilson": 50,
+      "Tom Wilson": 51,
       "Andre Burakovsky": 6,
       "Braden Holtby": 1,
       "T.J. Oshie": 48,
@@ -391,7 +391,7 @@
     },
     "byShotType": {
       "slap": 215,
-      "wrist": 398,
+      "wrist": 399,
       "backhand": 54,
       "tip-in": 44,
       "snap": 209,
@@ -424,7 +424,7 @@
       ],
       [
         "Tom Wilson",
-        50
+        51
       ],
       [
         "T.J. Oshie",
@@ -600,7 +600,7 @@
       ],
       [
         "PIT",
-        43
+        44
       ]
     ]
   },
@@ -20663,6 +20663,26 @@
       "secondaryAssist": "Jakob Chychrun",
       "careerGoalNum": 928,
       "opponent": "PHI",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2025021263,
+      "gameDate": "2026-04-11",
+      "period": 3,
+      "time": "16:22",
+      "xCoord": -38,
+      "yCoord": 36,
+      "shotType": "wrist",
+      "assist1Id": 8476880,
+      "homeTeam": "PIT",
+      "awayTeam": "WSH",
+      "isHome": false,
+      "isPlayoffs": false,
+      "goalieName": null,
+      "primaryAssist": "Tom Wilson",
+      "secondaryAssist": null,
+      "careerGoalNum": 929,
+      "opponent": "PIT",
       "goalType": "EV"
     },
     {
