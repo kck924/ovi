@@ -2,9 +2,9 @@
   "metadata": {
     "player": "Alex Ovechkin",
     "playerId": 8471214,
-    "fetchedAt": "2026-10-11T07:22:02.683Z",
+    "fetchedAt": "2026-10-12T07:45:29.228Z",
     "source": "NHL API",
-    "regularSeasonGoals": 929,
+    "regularSeasonGoals": 930,
     "playoffGoals": 77
   },
   "stats": {
@@ -30,7 +30,7 @@
       "2023": 23,
       "2024": 41,
       "2025": 42,
-      "2026": 17
+      "2026": 18
     },
     "byOpponent": {
       "CBJ": 28,
@@ -65,7 +65,7 @@
       "WPG": 28,
       "ARI": 7,
       "VGK": 8,
-      "SEA": 6,
+      "SEA": 7,
       "UTA": 5
     },
     "byGoalie": {
@@ -257,7 +257,8 @@
       "Eric Comrie": 1,
       "Drew Commesso": 1,
       "Justus Annunen": 1,
-      "Vitek Vanecek": 2
+      "Vitek Vanecek": 2,
+      "Joey Daccord": 1
     },
     "byAnyAssist": {
       "Dainius Zubrus": 26,
@@ -362,7 +363,7 @@
       "Brenden Dillon": 1,
       "Anthony Mantha": 8,
       "Trevor van Riemsdyk": 12,
-      "Aliaksei Protas": 15,
+      "Aliaksei Protas": 16,
       "Garnet Hathaway": 3,
       "Dylan Strome": 59,
       "Erik Gustafsson": 6,
@@ -387,14 +388,15 @@
       "Ryan Leonard": 3,
       "Justin Sourdif": 1,
       "Declan Chisholm": 1,
-      "Cole Hutson": 1
+      "Cole Hutson": 1,
+      "Ilya Protas": 1
     },
     "byShotType": {
       "slap": 215,
       "wrist": 399,
       "backhand": 54,
       "tip-in": 44,
-      "snap": 209,
+      "snap": 210,
       "deflected": 8
     },
     "topAssisters": [
@@ -471,11 +473,11 @@
         16
       ],
       [
-        "Troy Brouwer",
-        15
+        "Aliaksei Protas",
+        16
       ],
       [
-        "Aliaksei Protas",
+        "Troy Brouwer",
         15
       ]
     ],
@@ -20683,6 +20685,28 @@
       "secondaryAssist": null,
       "careerGoalNum": 929,
       "opponent": "PIT",
+      "goalType": "EV"
+    },
+    {
+      "gameId": 2026020084,
+      "gameDate": "2026-10-11",
+      "period": 1,
+      "time": "16:47",
+      "xCoord": -77,
+      "yCoord": -1,
+      "shotType": "snap",
+      "goalieId": 8478916,
+      "assist1Id": 8484999,
+      "assist2Id": 8481656,
+      "homeTeam": "WSH",
+      "awayTeam": "SEA",
+      "isHome": true,
+      "isPlayoffs": false,
+      "goalieName": "Joey Daccord",
+      "primaryAssist": "Ilya Protas",
+      "secondaryAssist": "Aliaksei Protas",
+      "careerGoalNum": 930,
+      "opponent": "SEA",
       "goalType": "EV"
     },
     {
